@@ -36,7 +36,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="swDJBoalZ605PplscL9l-5" value="生存分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="353.5" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="swDJBoalZ605PplscL9l-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="swDJBoalZ605PplscL9l-6" target="swDJBoalZ605PplscL9l-7">
           <mxGeometry relative="1" as="geometry">
@@ -168,7 +168,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="swDJBoalZ605PplscL9l-46" value="验证PSM结果稳健性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="swDJBoalZ605PplscL9l-51" value="结果呈现:0S、PFS、ORR及安全性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="800" width="120" height="60" as="geometry" />
