@@ -55,13 +55,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="swDJBoalZ605PplscL9l-6" value="基线特征比较" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="swDJBoalZ605PplscL9l-7" value="正态分布:Student&#39;st检验;非正态:Mann-Whitney U检验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="swDJBoalZ605PplscL9l-8" value="卡方检验;频数&amp;lt;5:Fisher精确检验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="swDJBoalZ605PplscL9l-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="swDJBoalZ605PplscL9l-10" target="swDJBoalZ605PplscL9l-12">
           <mxGeometry relative="1" as="geometry" />
