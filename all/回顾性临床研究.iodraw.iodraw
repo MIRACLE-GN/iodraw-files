@@ -181,7 +181,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="swDJBoalZ605PplscL9l-46" value="验证PSM结果稳健性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="swDJBoalZ605PplscL9l-51" value="结果呈现:0S、PFS、ORR及安全性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="800" width="120" height="60" as="geometry" />
