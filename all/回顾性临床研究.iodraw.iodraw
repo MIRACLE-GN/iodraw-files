@@ -41,16 +41,16 @@
         <mxCell id="swDJBoalZ605PplscL9l-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="swDJBoalZ605PplscL9l-6" target="swDJBoalZ605PplscL9l-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="150" y="360" />
-              <mxPoint x="70" y="360" />
+              <mxPoint x="150" y="410" />
+              <mxPoint x="70" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="swDJBoalZ605PplscL9l-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="swDJBoalZ605PplscL9l-6" target="swDJBoalZ605PplscL9l-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="150" y="360" />
-              <mxPoint x="230" y="360" />
+              <mxPoint x="150" y="410" />
+              <mxPoint x="230" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -61,7 +61,7 @@
           <mxGeometry x="10" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="swDJBoalZ605PplscL9l-8" value="卡方检验;频数&amp;lt;5:Fisher精确检验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="swDJBoalZ605PplscL9l-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="swDJBoalZ605PplscL9l-10" target="swDJBoalZ605PplscL9l-12">
           <mxGeometry relative="1" as="geometry" />
