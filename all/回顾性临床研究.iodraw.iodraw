@@ -168,12 +168,6 @@
         <mxCell id="swDJBoalZ605PplscL9l-23" value="&lt;p style=&quot;language:zh-CN;line-height:200%;margin-top:0pt;margin-bottom:0pt;&lt;br/&gt;margin-left:0in;text-indent:0in;text-align:left;direction:ltr;unicode-bidi:&lt;br/&gt;embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;精简关键临床因素匹配&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="430" width="50" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="swDJBoalZ605PplscL9l-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="swDJBoalZ605PplscL9l-1" target="swDJBoalZ605PplscL9l-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="70" y="370" as="sourcePoint" />
-            <mxPoint x="120" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="swDJBoalZ605PplscL9l-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="swDJBoalZ605PplscL9l-3" target="swDJBoalZ605PplscL9l-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="370" as="sourcePoint" />
@@ -188,6 +182,9 @@
         </mxCell>
         <mxCell id="swDJBoalZ605PplscL9l-51" value="结果呈现:0S、PFS、ORR及安全性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="swDJBoalZ605PplscL9l-60" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
