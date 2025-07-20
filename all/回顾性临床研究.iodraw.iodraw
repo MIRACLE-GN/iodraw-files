@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="swDJBoalZ605PplscL9l-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="swDJBoalZ605PplscL9l-1" target="swDJBoalZ605PplscL9l-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="swDJBoalZ605PplscL9l-1" value="&lt;div&gt;&lt;font face=&quot;微软雅黑&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;数据来源:CHANCE数据库(586例患&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;微软雅黑&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;者)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="246" y="10" width="336" height="60" as="geometry" />
         </mxCell>
