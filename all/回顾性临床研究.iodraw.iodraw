@@ -90,9 +90,8 @@
         <mxCell id="swDJBoalZ605PplscL9l-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="swDJBoalZ605PplscL9l-16" target="swDJBoalZ605PplscL9l-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="680" y="240" />
-              <mxPoint x="680" y="360" />
-              <mxPoint x="557" y="360" />
+              <mxPoint x="680" y="410" />
+              <mxPoint x="557" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -159,7 +158,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="swDJBoalZ605PplscL9l-22" value="&lt;p style=&quot;language:zh-CN;line-height:200%;margin-top:0pt;margin-bottom:0pt;&lt;br/&gt;margin-left:0in;text-indent:0in;text-align:left;direction:ltr;unicode-bidi:&lt;br/&gt;embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;逆概率治疗加权分析&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="380" width="50" height="70" as="geometry" />
+          <mxGeometry x="760" y="430" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="swDJBoalZ605PplscL9l-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="swDJBoalZ605PplscL9l-23" target="swDJBoalZ605PplscL9l-46">
           <mxGeometry relative="1" as="geometry">
