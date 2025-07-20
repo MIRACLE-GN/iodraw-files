@@ -41,16 +41,18 @@
         <mxCell id="swDJBoalZ605PplscL9l-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="swDJBoalZ605PplscL9l-6" target="swDJBoalZ605PplscL9l-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="150" y="270" />
-              <mxPoint x="70" y="270" />
+              <mxPoint x="150" y="260" />
+              <mxPoint x="150" y="300" />
+              <mxPoint x="70" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="swDJBoalZ605PplscL9l-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="swDJBoalZ605PplscL9l-6" target="swDJBoalZ605PplscL9l-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="150" y="270" />
-              <mxPoint x="230" y="270" />
+              <mxPoint x="150" y="260" />
+              <mxPoint x="150" y="300" />
+              <mxPoint x="230" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
