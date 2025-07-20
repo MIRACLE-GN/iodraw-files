@@ -99,24 +99,27 @@
         <mxCell id="swDJBoalZ605PplscL9l-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="swDJBoalZ605PplscL9l-16" target="swDJBoalZ605PplscL9l-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="680" y="270" />
-              <mxPoint x="635" y="270" />
+              <mxPoint x="680" y="240" />
+              <mxPoint x="680" y="360" />
+              <mxPoint x="635" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="swDJBoalZ605PplscL9l-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="swDJBoalZ605PplscL9l-16" target="swDJBoalZ605PplscL9l-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="680" y="270" />
-              <mxPoint x="785" y="270" />
+              <mxPoint x="680" y="240" />
+              <mxPoint x="680" y="360" />
+              <mxPoint x="785" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="swDJBoalZ605PplscL9l-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="swDJBoalZ605PplscL9l-16" target="swDJBoalZ605PplscL9l-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="680" y="270" />
-              <mxPoint x="715" y="270" />
+              <mxPoint x="680" y="240" />
+              <mxPoint x="680" y="360" />
+              <mxPoint x="715" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
