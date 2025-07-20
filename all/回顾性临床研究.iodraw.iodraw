@@ -141,6 +141,11 @@
         <mxCell id="swDJBoalZ605PplscL9l-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="swDJBoalZ605PplscL9l-22">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="680" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="785" y="385" />
+              <mxPoint x="670" y="385" />
+              <mxPoint x="670" y="410" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="swDJBoalZ605PplscL9l-22" value="&lt;p style=&quot;language:zh-CN;line-height:200%;margin-top:0pt;margin-bottom:0pt;&lt;br/&gt;margin-left:0in;text-indent:0in;text-align:left;direction:ltr;unicode-bidi:&lt;br/&gt;embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;逆概率治疗加权分析&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
