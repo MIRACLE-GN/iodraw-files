@@ -75,8 +75,8 @@
         <mxCell id="sFPVvojB2ZBdvTR1mMH7-20" value="划分训练集80%和训练集20%" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sFPVvojB2ZBdvTR1mMH7-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="770" width="120" height="60" as="geometry" />
+        <mxCell id="sFPVvojB2ZBdvTR1mMH7-26" value="最佳模型：GBM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
