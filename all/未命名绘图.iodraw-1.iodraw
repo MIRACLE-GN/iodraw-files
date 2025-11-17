@@ -10,6 +10,9 @@
         <mxCell id="sFPVvojB2ZBdvTR1mMH7-2" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;收集临床特征和术前血浆神经酰胺谱数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="195" y="110" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="sFPVvojB2ZBdvTR1mMH7-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
