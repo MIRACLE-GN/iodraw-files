@@ -8,7 +8,7 @@
           <mxGeometry x="304" y="20" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tp9-gqNi9Vp890dT4va7-2" value="&lt;p style=&quot;margin-right: 0px; margin-bottom: 16px; margin-left: 0px; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255); margin-top: 0px !important;&quot; class=&quot;ds-markdown-paragraph&quot;&gt;分类变量以频数（百分比）表示，并采用Fisher精确概率法或卡方检验进行比较。连续变量以中位数（四分位数间距）表示，并采用Wilcoxon秩和检验进行组间比较。&lt;/p&gt;&lt;p style=&quot;margin-top: 16px; margin-right: 0px; margin-left: 0px; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255); margin-bottom: 0px !important;&quot; class=&quot;ds-markdown-paragraph&quot;&gt;对缺失率超过30%的预测变量予以排除。对其余变量的缺失值，采用R语言中基于随机森林法的多重插补算法分别对MIMIC-IV和eICU队列进行填补（插补次数m=5，最大迭代次数maxit=5）。结局变量不进行插补。关于缺失率及收敛诊断的详细信息见补充材料。采用四分位距法识别异常值，将低于Q1–1.5IQR或高于Q3+1.5IQR的数据点判定为异常值，并将其替换为该变量的均值。&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="304" y="120" width="416" height="60" as="geometry" />
+          <mxGeometry x="80" y="120" width="640" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
