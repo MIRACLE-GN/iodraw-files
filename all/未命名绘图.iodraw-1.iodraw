@@ -10,11 +10,17 @@
         <mxCell id="Tp9-gqNi9Vp890dT4va7-1" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;内部训练与验证数据：从&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font style=&quot;&quot;&gt;MIMIC-IV&lt;/font&gt;&lt;font style=&quot;&quot;&gt;数据库提取4686名患者的数据，根据住院期间是否死亡分为两组&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="304" y="20" width="220" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Tp9-gqNi9Vp890dT4va7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tp9-gqNi9Vp890dT4va7-2" target="Tp9-gqNi9Vp890dT4va7-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Tp9-gqNi9Vp890dT4va7-2" value="&lt;p style=&quot;margin-right: 0px; margin-bottom: 16px; margin-left: 0px; color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255); margin-top: 0px !important;&quot; class=&quot;ds-markdown-paragraph&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;分类变量以频数（百分比）表示，并采用Fisher精确概率法或卡方检验进行比较。连续变量以中位数（四分位数间距）表示，并采用Wilcoxon秩和检验进行组间比较。对缺失率超过30%的预测变量予以排除。&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="246" y="120" width="336" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Tp9-gqNi9Vp890dT4va7-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;采用Boruta算法进行特征选择&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="321" y="260" width="186" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tp9-gqNi9Vp890dT4va7-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
