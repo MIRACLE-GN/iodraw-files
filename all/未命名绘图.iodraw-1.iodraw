@@ -65,9 +65,9 @@
           <mxGeometry x="480" y="585" width="120" height="60" as="geometry" />
         </mxCell>
         <object label="" id="sFPVvojB2ZBdvTR1mMH7-22">
-          <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="sFPVvojB2ZBdvTR1mMH7-20">
             <mxGeometry relative="1" as="geometry">
-              <mxPoint x="360" y="610" as="sourcePoint" />
+              <mxPoint x="370" y="610" as="sourcePoint" />
               <mxPoint x="450" y="590" as="targetPoint" />
             </mxGeometry>
           </mxCell>
