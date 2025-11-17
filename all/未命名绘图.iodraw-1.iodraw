@@ -56,6 +56,9 @@
         <mxCell id="Tp9-gqNi9Vp890dT4va7-29" value="外部验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="48" y="610" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Tp9-gqNi9Vp890dT4va7-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="36" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
