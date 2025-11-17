@@ -48,7 +48,7 @@
           <mxGeometry x="218" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tp9-gqNi9Vp890dT4va7-24" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;XGBoost (AUC = 0.911, AP = 0.766)、GBDT (AUC = 0.905, AP = 0.751)、SVM (AUC = 0.907, AP = 0.742)、逻辑回归 (AUC = 0.885, AP = 0.725)、随机森林 (AUC = 0.847, AP = 0.724)、神经网络 (AUC = 0.756, AP = 0.617)、决策树 (AUC = 0.697, AP = 0.459)、KNN (AUC = 0.488, AP = 0.259)、SOFA评分 (AUC = 0.574, AP = 0.209)、NEWS评分 (AUC = 0.683, AP = 0.187)、MEWS评分 (AUC = 0.741, AP = 0.186)&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="410" width="340" height="210" as="geometry" />
+          <mxGeometry x="470" y="440" width="340" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Tp9-gqNi9Vp890dT4va7-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.009;entryY=0.376;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Tp9-gqNi9Vp890dT4va7-9" target="Tp9-gqNi9Vp890dT4va7-24">
           <mxGeometry relative="1" as="geometry" />
