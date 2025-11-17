@@ -53,7 +53,7 @@
         <mxCell id="AS7_JPFnZE4KT6_PC6Yl-14" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;将特征维度优化至4-11个的固定范围内以防止过拟合&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="113" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AS7_JPFnZE4KT6_PC6Yl-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AS7_JPFnZE4KT6_PC6Yl-19" value="验证集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="112.5" y="730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
