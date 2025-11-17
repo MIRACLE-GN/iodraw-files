@@ -30,7 +30,7 @@
         <mxCell id="sFPVvojB2ZBdvTR1mMH7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sFPVvojB2ZBdvTR1mMH7-5" target="sFPVvojB2ZBdvTR1mMH7-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sFPVvojB2ZBdvTR1mMH7-16" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sFPVvojB2ZBdvTR1mMH7-15">
+        <mxCell id="sFPVvojB2ZBdvTR1mMH7-16" value="P&amp;lt;0.05" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sFPVvojB2ZBdvTR1mMH7-15">
           <mxGeometry x="-0.2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -42,7 +42,7 @@
           <mxGeometry x="305" y="450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sFPVvojB2ZBdvTR1mMH7-8" value="4个独立预测因子&lt;div&gt;AFP、肿瘤大小、CER(d18:1/20:1)、CER(d18:1/22:1)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="580" width="170" height="60" as="geometry" />
+          <mxGeometry x="280" y="525" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sFPVvojB2ZBdvTR1mMH7-9" value="构建10种机器学习模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="195" y="690" width="120" height="60" as="geometry" />
