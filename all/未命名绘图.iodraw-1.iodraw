@@ -16,6 +16,9 @@
         <mxCell id="sFPVvojB2ZBdvTR1mMH7-5" value="单变量Cox分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="195" y="390" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="sFPVvojB2ZBdvTR1mMH7-6" value="单变量Cox分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
