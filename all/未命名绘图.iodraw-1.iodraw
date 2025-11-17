@@ -45,7 +45,12 @@
           <mxGeometry x="305" y="450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sFPVvojB2ZBdvTR1mMH7-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sFPVvojB2ZBdvTR1mMH7-8" target="sFPVvojB2ZBdvTR1mMH7-9">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="365" y="620" />
+              <mxPoint x="365" y="620" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="sFPVvojB2ZBdvTR1mMH7-8" value="4个独立预测因子&lt;div&gt;AFP、肿瘤大小、CER(d18:1/20:1)、CER(d18:1/22:1)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="525" width="130" height="60" as="geometry" />
@@ -57,7 +62,7 @@
           <mxGeometry x="195" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sFPVvojB2ZBdvTR1mMH7-20" value="划分训练集80%和训练集20%" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="585" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
