@@ -42,7 +42,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sFPVvojB2ZBdvTR1mMH7-7" value="多变量Cox分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="450" width="120" height="40" as="geometry" />
+          <mxGeometry x="305" y="460" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sFPVvojB2ZBdvTR1mMH7-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sFPVvojB2ZBdvTR1mMH7-8" target="sFPVvojB2ZBdvTR1mMH7-9">
           <mxGeometry relative="1" as="geometry">
@@ -70,7 +70,7 @@
           <mxGeometry x="305" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sFPVvojB2ZBdvTR1mMH7-20" value="划分训练集80%和训练集20%" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="585" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
