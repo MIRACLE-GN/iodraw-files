@@ -48,7 +48,7 @@
           <mxGeometry x="300" y="525" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sFPVvojB2ZBdvTR1mMH7-9" value="构建10种机器学习模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="620" width="125" height="60" as="geometry" />
+          <mxGeometry x="302.5" y="630" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sFPVvojB2ZBdvTR1mMH7-10" value="内部验证（20%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="195" y="800" width="120" height="60" as="geometry" />
