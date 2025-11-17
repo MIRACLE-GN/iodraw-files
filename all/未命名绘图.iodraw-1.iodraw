@@ -81,7 +81,7 @@
         <mxCell id="sFPVvojB2ZBdvTR1mMH7-26" value="最佳模型：GBM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="780" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sFPVvojB2ZBdvTR1mMH7-29" value="SHAP分析与贝叶斯" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sFPVvojB2ZBdvTR1mMH7-29" value="SHAP分析与贝叶斯网络因果推断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="870" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
