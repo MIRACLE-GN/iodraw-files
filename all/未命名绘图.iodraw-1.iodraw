@@ -69,7 +69,7 @@
           <mxGeometry x="18" y="490" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Tp9-gqNi9Vp890dT4va7-33" value="&lt;h3 style=&quot;margin: 24px 0px 8px; box-sizing: inherit; font-size: 14px; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; line-height: 1.3; color: rgb(34, 34, 34); font-weight: 400; text-align: start; background-color: rgb(255, 255, 255);&quot; id=&quot;Sec13&quot; class=&quot;c-article__sub-heading&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: Georgia, Palatino, serif;&quot;&gt;XGBoost模型的&lt;/span&gt;SHAP解释&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="218" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="218" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
