@@ -64,20 +64,12 @@
         <mxCell id="sFPVvojB2ZBdvTR1mMH7-20" value="划分训练集80%和训练集20%" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="585" width="120" height="60" as="geometry" />
         </mxCell>
-        <object label="" id="sFPVvojB2ZBdvTR1mMH7-22">
-          <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="sFPVvojB2ZBdvTR1mMH7-20">
-            <mxGeometry relative="1" as="geometry">
-              <mxPoint x="370" y="610" as="sourcePoint" />
-              <mxPoint x="450" y="590" as="targetPoint" />
-              <Array as="points">
-                <mxPoint x="370" y="611" />
-                <mxPoint x="426" y="611" />
-                <mxPoint x="426" y="615" />
-                <mxPoint x="478" y="615" />
-              </Array>
-            </mxGeometry>
-          </mxCell>
-        </object>
+        <mxCell id="sFPVvojB2ZBdvTR1mMH7-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="610" as="sourcePoint" />
+            <mxPoint x="570" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
