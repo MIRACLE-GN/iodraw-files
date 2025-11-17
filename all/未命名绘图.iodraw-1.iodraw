@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sFPVvojB2ZBdvTR1mMH7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sFPVvojB2ZBdvTR1mMH7-1" target="sFPVvojB2ZBdvTR1mMH7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sFPVvojB2ZBdvTR1mMH7-1" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;南方医科大学南方医院257例接受根治性切除术的HCC患者，其中男198例，女11例&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="10" width="170" height="60" as="geometry" />
         </mxCell>
@@ -11,7 +14,7 @@
           <mxGeometry x="305" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sFPVvojB2ZBdvTR1mMH7-4" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;连续变量如符合正态分布则以均值±标准差表示，如不符合则以中位数（四分位距）表示。采用基于Kaplan-Meier生存分析和对数秩检验的最大选择秩统计法确定神经酰胺最佳临界值。在预后建模中，神经酰胺按临界值分为高/低两组，而相关性分析仍使用连续值。组间比较中，参数资料采用Student t检验或单因素方差分析（Bonferroni校正），非参数资料采用Mann-Whitney U检验或Kruskal-Wallis检验（Dunn校正）。分类变量采用χ²检验或Fisher精确检验进行分析。&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="190" width="350" height="150" as="geometry" />
+          <mxGeometry x="190" y="190" width="350" height="150" as="geometry" />
         </mxCell>
         <mxCell id="sFPVvojB2ZBdvTR1mMH7-5" value="单变量Cox分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="195" y="390" width="120" height="40" as="geometry" />
