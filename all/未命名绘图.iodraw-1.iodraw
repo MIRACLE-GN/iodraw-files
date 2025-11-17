@@ -14,10 +14,10 @@
           <mxGeometry x="90" y="190" width="350" height="150" as="geometry" />
         </mxCell>
         <mxCell id="sFPVvojB2ZBdvTR1mMH7-5" value="单变量Cox分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="195" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="195" y="390" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sFPVvojB2ZBdvTR1mMH7-7" value="多变量Cox分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="195" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="195" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sFPVvojB2ZBdvTR1mMH7-8" value="4个独立预测因子&lt;div&gt;AFP、肿瘤大小、CER(d18:1/20:1)、CER(d18:1/22:1)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="585" width="170" height="60" as="geometry" />
