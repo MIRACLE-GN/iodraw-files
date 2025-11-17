@@ -36,7 +36,7 @@
         <mxCell id="sFPVvojB2ZBdvTR1mMH7-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sFPVvojB2ZBdvTR1mMH7-7" target="sFPVvojB2ZBdvTR1mMH7-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sFPVvojB2ZBdvTR1mMH7-27" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sFPVvojB2ZBdvTR1mMH7-18">
+        <mxCell id="sFPVvojB2ZBdvTR1mMH7-27" value="P&amp;lt;0.05" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sFPVvojB2ZBdvTR1mMH7-18">
           <mxGeometry x="-0.0667" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -69,8 +69,8 @@
         <mxCell id="sFPVvojB2ZBdvTR1mMH7-9" value="构建10种机器学习模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="302.5" y="630" width="125" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sFPVvojB2ZBdvTR1mMH7-10" value="最佳模型：GBM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="700" width="120" height="40" as="geometry" />
+        <mxCell id="sFPVvojB2ZBdvTR1mMH7-10" value="内部验证&lt;div&gt;时间依赖性ROC、C-index、校准曲线、DCA&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="700" width="205" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sFPVvojB2ZBdvTR1mMH7-20" value="划分训练集80%和训练集20%" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="570" width="120" height="60" as="geometry" />
