@@ -75,7 +75,7 @@
           <mxGeometry x="294" y="750" width="456" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AS7_JPFnZE4KT6_PC6Yl-26" value="&lt;span style=&quot;font-size: 14px; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;经校准的GBM模型预测性能良好（Brier得分0.1174），其净收益在0-0.5阈值范围内均优于参考策略。通过调整决策阈值可实现性能平衡：阈值0.5时特异性达85.5%，阈值0.24时灵敏度提升至83.6%，证实模型可通过阈值调节适应不同临床场景的需求&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="860" width="426" height="70" as="geometry" />
+          <mxGeometry x="294" y="865" width="426" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
