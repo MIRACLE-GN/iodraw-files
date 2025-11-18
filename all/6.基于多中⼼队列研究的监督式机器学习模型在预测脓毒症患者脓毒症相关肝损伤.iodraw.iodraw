@@ -30,7 +30,7 @@
           <mxGeometry x="670" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ACj4uv2FwWUBLUZgkVXb-8" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;堆叠集成策略：将决策树、随机森林、XGBoost及支持向量机等基础模型的预测结果作为输入特征，通过逻辑回归作为元模型进行二次整合，生成最终预测&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="300" width="310" height="80" as="geometry" />
+          <mxGeometry x="310" y="300" width="310" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
