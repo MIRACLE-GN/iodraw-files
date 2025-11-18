@@ -1,11 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="24.7.17">
   <diagram id="-UBs1jXHUUibXevtq_dD" name="第 1 页">
-    <mxGraphModel dx="803" dy="2226" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="803" dy="1057" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZO9Wsin6s2xFnNDmiBNk-1" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: Georgia, Palatino, serif; font-size: 18px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;摩德纳大学医院呼吸重症监护室治疗的184名AHRF患者&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="20" width="120" height="60" as="geometry" />
+        <mxCell id="ZO9Wsin6s2xFnNDmiBNk-1" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: Georgia, Palatino, serif; font-size: 18px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;摩德纳大学医院呼吸重症监护室治疗的184名AHRF患者（116名患者治疗成功，68名治疗失败）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="20" width="300" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
