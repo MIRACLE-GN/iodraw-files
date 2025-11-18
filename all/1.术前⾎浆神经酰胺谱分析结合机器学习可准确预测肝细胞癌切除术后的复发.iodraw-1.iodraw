@@ -13,7 +13,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sFPVvojB2ZBdvTR1mMH7-1" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;南方医科大学南方医院257例接受根治性切除术的HCC患者，其中男198例，女11例&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="427.5" y="10" width="170" height="60" as="geometry" />
+          <mxGeometry x="435" y="10" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sFPVvojB2ZBdvTR1mMH7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="sFPVvojB2ZBdvTR1mMH7-2" target="sFPVvojB2ZBdvTR1mMH7-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -76,7 +76,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sFPVvojB2ZBdvTR1mMH7-20" value="划分训练集80%和训练集20%" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="485" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sFPVvojB2ZBdvTR1mMH7-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sFPVvojB2ZBdvTR1mMH7-26" target="sFPVvojB2ZBdvTR1mMH7-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
