@@ -5,7 +5,12 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sFPVvojB2ZBdvTR1mMH7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="sFPVvojB2ZBdvTR1mMH7-1" target="sFPVvojB2ZBdvTR1mMH7-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="513" y="80" />
+              <mxPoint x="365" y="80" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="sFPVvojB2ZBdvTR1mMH7-1" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;南方医科大学南方医院257例接受根治性切除术的HCC患者，其中男198例，女11例&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="427.5" y="10" width="170" height="60" as="geometry" />
@@ -49,14 +54,6 @@
             <Array as="points">
               <mxPoint x="365" y="620" />
               <mxPoint x="365" y="620" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sFPVvojB2ZBdvTR1mMH7-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="sFPVvojB2ZBdvTR1mMH7-8" target="sFPVvojB2ZBdvTR1mMH7-20" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="365" y="600" />
-              <mxPoint x="480" y="600" />
             </Array>
           </mxGeometry>
         </mxCell>
