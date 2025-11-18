@@ -18,7 +18,7 @@
         <mxCell id="ACj4uv2FwWUBLUZgkVXb-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ACj4uv2FwWUBLUZgkVXb-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ACj4uv2FwWUBLUZgkVXb-5" value="数据清理、缺失值处理、归一化和功能选择" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
