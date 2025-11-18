@@ -60,7 +60,7 @@
           <mxGeometry x="330" y="410" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ACj4uv2FwWUBLUZgkVXb-19" value="模型评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="405" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="405" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
