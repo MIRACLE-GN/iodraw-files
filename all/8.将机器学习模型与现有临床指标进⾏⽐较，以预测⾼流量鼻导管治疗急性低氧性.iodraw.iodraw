@@ -29,13 +29,13 @@
           <mxGeometry x="230" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZO9Wsin6s2xFnNDmiBNk-5" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;在内部验证和外部验证中，无论是否使用动脉血气（ABG）数据，SVM模型的预测准确性、区分度（AUC）和校准度均一致地优于所有其他测试的机器学习模型&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="550" width="250" height="100" as="geometry" />
+          <mxGeometry x="435" y="560" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZO9Wsin6s2xFnNDmiBNk-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZO9Wsin6s2xFnNDmiBNk-6" target="ZO9Wsin6s2xFnNDmiBNk-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZO9Wsin6s2xFnNDmiBNk-6" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;巴西&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;RENOVATE&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;试验的&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;510&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;名患者和美国&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;MIMIC-IV&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;与&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;eICU&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;数据库的&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;57&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;名患者共同组成的&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;567&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;名患者作为外部验证集&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="435" y="420" width="260" height="90" as="geometry" />
+          <mxGeometry x="440" y="420" width="260" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ZO9Wsin6s2xFnNDmiBNk-12" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;模型评估&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="780" width="120" height="60" as="geometry" />
