@@ -9,20 +9,20 @@
         </mxCell>
         <mxCell id="ACj4uv2FwWUBLUZgkVXb-4" value="数据预处理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ACj4uv2FwWUBLUZgkVXb-3">
           <mxGeometry x="-0.0083" y="-1" relative="1" as="geometry">
-            <mxPoint x="1" y="-20" as="offset" />
+            <mxPoint x="22" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ACj4uv2FwWUBLUZgkVXb-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ACj4uv2FwWUBLUZgkVXb-1" target="ACj4uv2FwWUBLUZgkVXb-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ACj4uv2FwWUBLUZgkVXb-1" value="&lt;span style=&quot;color: rgb(27, 27, 27); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Helvetica&quot;&gt;MIMIC-IV数据集（N=8834）的数据随机分为训练集（n=6183,70%）和内部验证集（n=2651,30%）&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="20" width="240" height="80" as="geometry" />
+          <mxGeometry x="414" y="10" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ACj4uv2FwWUBLUZgkVXb-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;color: rgb(27, 27, 27); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Helvetica&quot;&gt;使用了九种不同的机器学习模型建模，&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;并采用网格搜索与交叉验证方法进行超参数优化以提升模型性能&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="210" width="250" height="80" as="geometry" />
+          <mxGeometry x="335" y="200" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ACj4uv2FwWUBLUZgkVXb-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;数据清理、缺失值处理、归一化和功能选择&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
