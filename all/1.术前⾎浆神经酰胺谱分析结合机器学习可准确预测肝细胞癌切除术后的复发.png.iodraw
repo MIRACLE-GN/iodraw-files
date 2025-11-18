@@ -1,91 +1,99 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="24.7.17">
-  <diagram name="第 1 页" id="xwErrNKpBCZ6G-J1yMpH">
+  <diagram name="第 1 页" id="UEfsecjYJshh9_iGWxIO">
     <mxGraphModel dx="1426" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sFPVvojB2ZBdvTR1mMH7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="sFPVvojB2ZBdvTR1mMH7-1" target="sFPVvojB2ZBdvTR1mMH7-2" edge="1">
+        <mxCell id="Tp9-gqNi9Vp890dT4va7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Tp9-gqNi9Vp890dT4va7-1" target="Tp9-gqNi9Vp890dT4va7-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tp9-gqNi9Vp890dT4va7-1" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;内部训练与验证数据：从&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font style=&quot;&quot;&gt;MIMIC-IV&lt;/font&gt;&lt;font style=&quot;&quot;&gt;数据库提取4686名患者的数据，根据住院期间是否死亡分为两组&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="304" y="20" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tp9-gqNi9Vp890dT4va7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Tp9-gqNi9Vp890dT4va7-2" target="Tp9-gqNi9Vp890dT4va7-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="513" y="80" />
-              <mxPoint x="365" y="80" />
+              <mxPoint x="278" y="230" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sFPVvojB2ZBdvTR1mMH7-1" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;南方医科大学南方医院257例接受根治性切除术的HCC患者，其中男198例，女11例&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="435" y="10" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sFPVvojB2ZBdvTR1mMH7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="sFPVvojB2ZBdvTR1mMH7-2" target="sFPVvojB2ZBdvTR1mMH7-4" edge="1">
+        <mxCell id="Tp9-gqNi9Vp890dT4va7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Tp9-gqNi9Vp890dT4va7-2" target="Tp9-gqNi9Vp890dT4va7-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sFPVvojB2ZBdvTR1mMH7-2" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;收集临床特征和术前血浆神经酰胺谱数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="305" y="100" width="120" height="60" as="geometry" />
+        <mxCell id="Tp9-gqNi9Vp890dT4va7-2" value="&lt;p style=&quot;margin-right: 0px; margin-bottom: 16px; margin-left: 0px; color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255); margin-top: 0px !important;&quot; class=&quot;ds-markdown-paragraph&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;分类变量以例数（百分比）表示，组间比较采用Fisher精确检验或卡方检验；连续变量以中位数（IQR）表示，组间比较采用Wilcoxon秩和检验。&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="120" width="336" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="sFPVvojB2ZBdvTR1mMH7-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sFPVvojB2ZBdvTR1mMH7-4" target="sFPVvojB2ZBdvTR1mMH7-5" edge="1">
+        <mxCell id="Tp9-gqNi9Vp890dT4va7-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Tp9-gqNi9Vp890dT4va7-3" target="Tp9-gqNi9Vp890dT4va7-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sFPVvojB2ZBdvTR1mMH7-4" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;连续变量以均值±标准差或中位数（四分位距）表示，并相应采用参数或非参数检验进行组间比较。分类变量采用χ²或Fisher精确检验。通过Kaplan-Meier法和最大选择秩统计量确定神经酰胺最佳临界值，预后建模中将其分为高/低两组，而相关性分析则使用其连续值。&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="190" width="230" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="sFPVvojB2ZBdvTR1mMH7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sFPVvojB2ZBdvTR1mMH7-5" target="sFPVvojB2ZBdvTR1mMH7-7" edge="1">
+        <mxCell id="Tp9-gqNi9Vp890dT4va7-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Tp9-gqNi9Vp890dT4va7-3" target="Tp9-gqNi9Vp890dT4va7-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sFPVvojB2ZBdvTR1mMH7-16" value="P&amp;lt;0.05" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="sFPVvojB2ZBdvTR1mMH7-15" vertex="1" connectable="0">
-          <mxGeometry x="-0.2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="Tp9-gqNi9Vp890dT4va7-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;采用Boruta算法进行特征选择，筛选重要性高于阴影的82个特征&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="168" y="260" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sFPVvojB2ZBdvTR1mMH7-5" value="单变量Cox分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="305" y="340" width="120" height="40" as="geometry" />
+        <mxCell id="Tp9-gqNi9Vp890dT4va7-7" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;剔除缺失率&amp;gt;30%的预测变量，其余变量缺失值使用随机森林多重插补法分别对两个队列进行填补（m=5, maxit=5），结局变量不填补。异常值按IQR法识别（超出Q1-1.5IQR至Q3+1.5IQR范围），并以均值替代。&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="180" width="280" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="sFPVvojB2ZBdvTR1mMH7-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sFPVvojB2ZBdvTR1mMH7-7" target="sFPVvojB2ZBdvTR1mMH7-8" edge="1">
+        <mxCell id="Tp9-gqNi9Vp890dT4va7-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Tp9-gqNi9Vp890dT4va7-9" target="Tp9-gqNi9Vp890dT4va7-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sFPVvojB2ZBdvTR1mMH7-27" value="P&amp;lt;0.05" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="sFPVvojB2ZBdvTR1mMH7-18" vertex="1" connectable="0">
-          <mxGeometry x="-0.0667" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="Tp9-gqNi9Vp890dT4va7-9" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;构建了7种机器学习模型，并与逻辑回归、SOFA、NEWS及MEWS评分进行对比&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="155.5" y="400" width="245" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sFPVvojB2ZBdvTR1mMH7-7" value="多变量Cox分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="305" y="430" width="120" height="40" as="geometry" />
+        <mxCell id="Tp9-gqNi9Vp890dT4va7-12" value="&lt;span style=&quot;color: rgb(51, 51, 51); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;患者以7：3的比例随机分为训练集和内部验证集&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="320" width="156" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="sFPVvojB2ZBdvTR1mMH7-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="sFPVvojB2ZBdvTR1mMH7-8" target="sFPVvojB2ZBdvTR1mMH7-9" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="365" y="620" />
-              <mxPoint x="365" y="620" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sFPVvojB2ZBdvTR1mMH7-8" value="4个独立预测因子&lt;div&gt;AFP、肿瘤大小、CER(d18:1/20:1)、CER(d18:1/22:1)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="510" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sFPVvojB2ZBdvTR1mMH7-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sFPVvojB2ZBdvTR1mMH7-9" target="sFPVvojB2ZBdvTR1mMH7-10" edge="1">
+        <mxCell id="Tp9-gqNi9Vp890dT4va7-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Tp9-gqNi9Vp890dT4va7-21" target="Tp9-gqNi9Vp890dT4va7-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sFPVvojB2ZBdvTR1mMH7-9" value="构建10种机器学习模型" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="302.5" y="630" width="125" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="sFPVvojB2ZBdvTR1mMH7-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sFPVvojB2ZBdvTR1mMH7-10" target="sFPVvojB2ZBdvTR1mMH7-26" edge="1">
+        <mxCell id="Tp9-gqNi9Vp890dT4va7-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Tp9-gqNi9Vp890dT4va7-21" target="Tp9-gqNi9Vp890dT4va7-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sFPVvojB2ZBdvTR1mMH7-10" value="内部验证&lt;div&gt;时间依赖性ROC、C-index、校准曲线、DCA&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="245" y="700" width="240" height="50" as="geometry" />
+        <mxCell id="Tp9-gqNi9Vp890dT4va7-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;最优模型：&lt;span style=&quot;color: rgb(51, 51, 51); font-family: Georgia, Palatino, serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;XGBoost&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="218" y="525" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bTAYNNN55UwzpMqx0vls-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sFPVvojB2ZBdvTR1mMH7-20" target="sFPVvojB2ZBdvTR1mMH7-9">
+        <mxCell id="Tp9-gqNi9Vp890dT4va7-24" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;XGBoost (AUC = 0.911, AP = 0.766)、GBDT (AUC = 0.905, AP = 0.751)、SVM (AUC = 0.907, AP = 0.742)、逻辑回归 (AUC = 0.885, AP = 0.725)、随机森林 (AUC = 0.847, AP = 0.724)、神经网络 (AUC = 0.756, AP = 0.617)、决策树 (AUC = 0.697, AP = 0.459)、KNN (AUC = 0.488, AP = 0.259)、SOFA评分 (AUC = 0.574, AP = 0.209)、NEWS评分 (AUC = 0.683, AP = 0.187)、MEWS评分 (AUC = 0.741, AP = 0.186)&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="425" width="340" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Tp9-gqNi9Vp890dT4va7-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.012;entryY=0.406;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Tp9-gqNi9Vp890dT4va7-9" target="Tp9-gqNi9Vp890dT4va7-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sFPVvojB2ZBdvTR1mMH7-20" value="划分训练集80%和训练集20%" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="570" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sFPVvojB2ZBdvTR1mMH7-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sFPVvojB2ZBdvTR1mMH7-26" target="sFPVvojB2ZBdvTR1mMH7-29" edge="1">
+        <mxCell id="Tp9-gqNi9Vp890dT4va7-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Tp9-gqNi9Vp890dT4va7-29" target="Tp9-gqNi9Vp890dT4va7-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sFPVvojB2ZBdvTR1mMH7-26" value="最佳模型：GBM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="305" y="780" width="120" height="50" as="geometry" />
+        <mxCell id="Tp9-gqNi9Vp890dT4va7-29" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;外部验证&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;AUC、校准曲线和DCA&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="33" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sFPVvojB2ZBdvTR1mMH7-29" value="SHAP分析与贝叶斯网络因果推断" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="305" y="870" width="120" height="60" as="geometry" />
+        <mxCell id="Tp9-gqNi9Vp890dT4va7-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Tp9-gqNi9Vp890dT4va7-30" target="Tp9-gqNi9Vp890dT4va7-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tp9-gqNi9Vp890dT4va7-30" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;eICU-CRD数据库的3718例患者，&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;住院期间共有709例患者死亡&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="18" y="490" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Tp9-gqNi9Vp890dT4va7-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Tp9-gqNi9Vp890dT4va7-35" target="Tp9-gqNi9Vp890dT4va7-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tp9-gqNi9Vp890dT4va7-35" value="&lt;h3 style=&quot;margin: 24px 0px 8px; box-sizing: inherit; font-size: 14px; line-height: 1.3; color: rgb(34, 34, 34); font-weight: 400; background-color: rgb(255, 255, 255);&quot; id=&quot;Sec13&quot; class=&quot;c-article__sub-heading&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 51);&quot;&gt;XGBoost模型的&lt;/span&gt;SHAP解释&lt;/font&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="218" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tp9-gqNi9Vp890dT4va7-37" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;模型AUC值为0.855；校准曲线显示模型在10%-70%概率区间预测性能良好；&lt;/span&gt;&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;决策曲线表明模型在8%-69%的阈值概率范围内具有良好临床净收益&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="31" y="720" width="124" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Tp9-gqNi9Vp890dT4va7-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Tp9-gqNi9Vp890dT4va7-41" target="Tp9-gqNi9Vp890dT4va7-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tp9-gqNi9Vp890dT4va7-41" value="&lt;font style=&quot;font-size: 14px; text-align: start;&quot; color=&quot;#0f1115&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;识别出&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 14px; text-align: start; background-color: rgb(255, 255, 255); color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot;&gt;20个主要风险因素&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="218" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tp9-gqNi9Vp890dT4va7-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Tp9-gqNi9Vp890dT4va7-42" target="Tp9-gqNi9Vp890dT4va7-43" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tp9-gqNi9Vp890dT4va7-42" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;关&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;键预测指标（血氧饱和度、收缩压、血钠和血磷酸盐）进行的限制性立方样条分析&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="177" y="860" width="202" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tp9-gqNi9Vp890dT4va7-43" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;与院内死亡率的显著关联及潜在非线性关系&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="218" y="960" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
