@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZO9Wsin6s2xFnNDmiBNk-1" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 18px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;摩德纳大学医院呼吸重症监护室治疗的184名AHRF患者（116名患者治疗成功，68名治疗失败）&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="30" width="300" height="130" as="geometry" />
+          <mxGeometry x="440" y="30" width="300" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="ZO9Wsin6s2xFnNDmiBNk-2" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: Georgia, Palatino, serif; font-size: 18px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;摩德纳大学医院呼吸重症监护室治疗的184名AHRF患者（116名患者治疗成功，68名治疗失败）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="220" width="300" height="130" as="geometry" />
+        <mxCell id="ZO9Wsin6s2xFnNDmiBNk-2" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 18px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;摩德纳大学医院呼吸重症监护室治疗的184名AHRF患者（116名患者治疗成功，68名治疗失败）&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="230" width="300" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
