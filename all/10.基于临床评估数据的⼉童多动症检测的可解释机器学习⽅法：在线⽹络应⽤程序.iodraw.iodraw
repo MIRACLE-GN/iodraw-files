@@ -54,8 +54,8 @@
         <mxCell id="eFNP0oK_ELOpZphoVFRk-21" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Helvetica&quot;&gt;模型性能评估：&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;准确率、受试者工作特征曲线下面积（AUC）、灵敏度（召回率）、特异度、Kappa系数及混淆矩阵&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="82.5" y="680" width="265" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eFNP0oK_ELOpZphoVFRk-22" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;模型网络部署&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="155" y="820" width="120" height="60" as="geometry" />
+        <mxCell id="eFNP0oK_ELOpZphoVFRk-22" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Helvetica&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;模型网络部署：&lt;/font&gt;&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;用户输入特征信息后，网页将基于训练完成的模型输出相应的ADHD患病概率，并依托SHAP值生成模型决策图直观展示判断依据。该部署工作将采用Streamlit框架的网页部署工具完成&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="820" width="315" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
