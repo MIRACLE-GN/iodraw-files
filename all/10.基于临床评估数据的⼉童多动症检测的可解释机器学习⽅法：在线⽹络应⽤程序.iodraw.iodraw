@@ -8,9 +8,9 @@
           <mxGeometry x="300" y="30" width="400" height="100" as="geometry" />
         </mxCell>
         <mxCell id="eFNP0oK_ELOpZphoVFRk-2" value="每个站点随机抽取30%的样本组成外部数据集，剩余70%组成内部验证集（使用10重交叉验证）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="190" width="186" height="60" as="geometry" />
+          <mxGeometry x="450" y="570" width="186" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eFNP0oK_ELOpZphoVFRk-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eFNP0oK_ELOpZphoVFRk-6" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;SMOTE技术处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
