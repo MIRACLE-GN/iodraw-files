@@ -7,7 +7,7 @@
         <mxCell id="eFNP0oK_ELOpZphoVFRk-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eFNP0oK_ELOpZphoVFRk-1" target="eFNP0oK_ELOpZphoVFRk-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eFNP0oK_ELOpZphoVFRk-10" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eFNP0oK_ELOpZphoVFRk-9">
+        <mxCell id="eFNP0oK_ELOpZphoVFRk-10" value="数据清洗" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eFNP0oK_ELOpZphoVFRk-9">
           <mxGeometry x="-0.0222" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -22,10 +22,10 @@
           <mxGeometry x="180" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eFNP0oK_ELOpZphoVFRk-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;保留11个特征：&lt;/font&gt;&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;性别、年龄、利手、ADHD评估工具、ADHD指数、注意力不集中评分、多动/冲动评分、智商评估工具、言语智商、操作智商及Full4 IQ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="260" width="330" height="90" as="geometry" />
+          <mxGeometry x="120" y="260" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="eFNP0oK_ELOpZphoVFRk-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
