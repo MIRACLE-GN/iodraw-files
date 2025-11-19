@@ -46,7 +46,7 @@
           <mxGeometry x="58.75" y="370" width="312.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="eFNP0oK_ELOpZphoVFRk-18" value="&lt;span style=&quot;color: rgb(51, 51, 51); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 15px;&quot;&gt;性别编码为女性为0，男性为1，而左撇子的惯性编码为0，右撇子为1。ADHD测量包含两个标签：1个是ADHD评级IV（ADHD-RS），2个是Conners家长评级修订版（CPRS-LV）&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="300" width="250" height="60" as="geometry" />
+          <mxGeometry x="450" y="300" width="300" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
