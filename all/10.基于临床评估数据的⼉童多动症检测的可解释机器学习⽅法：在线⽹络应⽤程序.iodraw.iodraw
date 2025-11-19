@@ -4,13 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eFNP0oK_ELOpZphoVFRk-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eFNP0oK_ELOpZphoVFRk-1" target="eFNP0oK_ELOpZphoVFRk-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="390" y="200" />
-              <mxPoint x="516" y="200" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="eFNP0oK_ELOpZphoVFRk-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eFNP0oK_ELOpZphoVFRk-1" target="eFNP0oK_ELOpZphoVFRk-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eFNP0oK_ELOpZphoVFRk-1" value="&lt;span style=&quot;color: rgb(51, 51, 51); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 15px;&quot;&gt;ADHD-200数据库&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;包含973名参与者的数据，划分为四组：混合型ADHD（ADHD-C）、注意缺陷型ADHD（ADHD-I）、多动/冲动型ADHD（ADHD-H）或健康对照组。&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="30" width="410" height="100" as="geometry" />
