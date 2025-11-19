@@ -7,8 +7,8 @@
         <mxCell id="eFNP0oK_ELOpZphoVFRk-1" value="&lt;span style=&quot;color: rgb(51, 51, 51); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 15px;&quot;&gt;ADHD-200数据库&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: Georgia, Palatino, serif; font-size: 18px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;三个地点的504个样本数据集：北京大学（43.6%）、纽约大学儿童研究中心（40.4%）和肯尼迪·克里格研究所（15.8%）&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="30" width="400" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="eFNP0oK_ELOpZphoVFRk-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="104" y="300" width="310" height="70" as="geometry" />
+        <mxCell id="eFNP0oK_ELOpZphoVFRk-2" value="每个站点随机抽取30%的样本组成外部数据集，剩余70%组成内部验证集（使用10重交叉验证）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="104" y="250" width="310" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
