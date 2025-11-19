@@ -51,7 +51,7 @@
         <mxCell id="eFNP0oK_ELOpZphoVFRk-20" value="七种机器学习模型训练与预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="122.5" y="600" width="185" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eFNP0oK_ELOpZphoVFRk-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eFNP0oK_ELOpZphoVFRk-21" value="模型性能评估：" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="155" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
