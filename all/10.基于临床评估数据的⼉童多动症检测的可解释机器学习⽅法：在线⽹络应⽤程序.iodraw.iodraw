@@ -25,16 +25,10 @@
           <mxGeometry x="70" y="226" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="eFNP0oK_ELOpZphoVFRk-8" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;剔除高比例缺失的特征&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="166" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eFNP0oK_ELOpZphoVFRk-12" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: Georgia, Palatino, serif; font-size: 18px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;最终包括三个地点的504个样本数据集：北京大学（43.6%）、纽约大学儿童研究中心（40.4%）和肯尼迪·克里格研究所（15.8%）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="52.5" y="410" width="345" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="eFNP0oK_ELOpZphoVFRk-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="329" y="179" as="sourcePoint" />
-            <mxPoint x="509" y="179" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="52.5" y="370" width="345" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
