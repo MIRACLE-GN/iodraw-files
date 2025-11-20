@@ -18,6 +18,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CO6VsoansbS3XYSChGOB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CO6VsoansbS3XYSChGOB-1" target="CO6VsoansbS3XYSChGOB-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="180" />
+              <mxPoint x="310" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CO6VsoansbS3XYSChGOB-1" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 15px;&quot;&gt;Kaggle&lt;font style=&quot;font-size: 15px;&quot;&gt;数据库平台&lt;/font&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;kHtwBwLGggB9nnjDdMig&quot; style=&quot;font-size: 15px;&quot;&gt;该数据集包含541例患者记录，其中包含33个连续变量和8个分类变量。&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;kHtwBwLGggB9nnjDdMig&quot; style=&quot;font-size: 15px;&quot;&gt;外部验证&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;kHtwBwLGggB9nnjDdMig&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Figshare&lt;/span&gt;&lt;font style=&quot;background-color: initial; font-size: 15px;&quot;&gt;公开数据集&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;320&lt;/span&gt;&lt;font style=&quot;background-color: initial; font-size: 15px;&quot;&gt;个实例&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="30" width="240" height="100" as="geometry" />
         </mxCell>
