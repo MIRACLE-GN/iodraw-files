@@ -22,7 +22,7 @@
         <mxCell id="CO6VsoansbS3XYSChGOB-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;SHAP可解释性&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="55" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CO6VsoansbS3XYSChGOB-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CO6VsoansbS3XYSChGOB-7" value="验证模型鲁棒性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="55" y="770" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
