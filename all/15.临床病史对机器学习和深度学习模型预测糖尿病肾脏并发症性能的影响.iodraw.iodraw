@@ -51,7 +51,7 @@
         <mxCell id="0E0PhmN29NpY4ZyRr-i1-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0E0PhmN29NpY4ZyRr-i1-12" target="0E0PhmN29NpY4ZyRr-i1-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0E0PhmN29NpY4ZyRr-i1-19" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0E0PhmN29NpY4ZyRr-i1-18">
+        <mxCell id="0E0PhmN29NpY4ZyRr-i1-19" value="Boruta筛选" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0E0PhmN29NpY4ZyRr-i1-18">
           <mxGeometry x="0.05" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
