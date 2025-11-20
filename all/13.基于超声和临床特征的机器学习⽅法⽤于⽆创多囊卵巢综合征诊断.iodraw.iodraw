@@ -19,6 +19,9 @@
         <mxCell id="CO6VsoansbS3XYSChGOB-5" value="最佳模型&lt;div&gt;XGBoost&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="53" y="540" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="CO6VsoansbS3XYSChGOB-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
