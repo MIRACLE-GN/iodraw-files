@@ -8,7 +8,7 @@
           <mxGeometry x="200" y="60" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CO6VsoansbS3XYSChGOB-2" value="&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&lt;br/&gt;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;基于卡方检验的&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;SelectKBest&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;方法被用于对特征进行排序并筛选出最具信息量的特征&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="180" width="200" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
