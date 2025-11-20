@@ -29,7 +29,7 @@
           <mxGeometry x="460" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WgGVltiTaGd3NlyhQ3QD-9" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;SHAP可解释性分析&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="265" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="257.5" y="450" width="135" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
