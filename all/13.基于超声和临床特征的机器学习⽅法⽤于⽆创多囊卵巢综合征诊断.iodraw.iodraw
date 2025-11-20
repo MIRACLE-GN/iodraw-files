@@ -16,7 +16,7 @@
         <mxCell id="CO6VsoansbS3XYSChGOB-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;模型评估&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;AUC-ROC、精确率、召回率、特异度和F1分数&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="47.5" y="430" width="135" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="CO6VsoansbS3XYSChGOB-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CO6VsoansbS3XYSChGOB-5" value="最佳模型&lt;div&gt;XGBoost&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="53" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
