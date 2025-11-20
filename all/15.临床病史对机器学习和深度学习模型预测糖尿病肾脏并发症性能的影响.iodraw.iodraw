@@ -9,7 +9,7 @@
         </mxCell>
         <mxCell id="0E0PhmN29NpY4ZyRr-i1-4" value="数据过滤" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0E0PhmN29NpY4ZyRr-i1-3">
           <mxGeometry x="-0.0286" y="5" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0E0PhmN29NpY4ZyRr-i1-1" value="&lt;span style=&quot;color: rgb(31, 31, 31); text-align: start; font-size: 15px;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 15px;&quot;&gt;DARWIN–Renal数据库&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font face=&quot;iXNttX2flYyBDg7Flhqh&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;color: rgb(31, 31, 31); text-align: start;&quot;&gt;总样本量&lt;/span&gt;&lt;span style=&quot;color: rgb(31, 31, 31); text-align: start;&quot;&gt;为&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(31, 31, 31); font-size: 16px; text-align: start;&quot;&gt;48,649&lt;/span&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;color: rgb(31, 31, 31); text-align: start;&quot;&gt;人&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(31, 31, 31); text-align: start;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -17,6 +17,9 @@
         </mxCell>
         <mxCell id="0E0PhmN29NpY4ZyRr-i1-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;23,281人纳入研究&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0E0PhmN29NpY4ZyRr-i1-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
