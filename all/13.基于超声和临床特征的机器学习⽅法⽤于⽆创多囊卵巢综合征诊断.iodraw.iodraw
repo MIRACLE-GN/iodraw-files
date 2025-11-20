@@ -13,6 +13,9 @@
         <mxCell id="CO6VsoansbS3XYSChGOB-3" value="模型开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="55" y="320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="CO6VsoansbS3XYSChGOB-4" value="模型评估：" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
