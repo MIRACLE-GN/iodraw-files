@@ -46,7 +46,7 @@
         <mxCell id="WgGVltiTaGd3NlyhQ3QD-14" value="模型评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WgGVltiTaGd3NlyhQ3QD-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WgGVltiTaGd3NlyhQ3QD-15" value="最优模型&lt;br&gt;随机森林（RF）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="770" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
