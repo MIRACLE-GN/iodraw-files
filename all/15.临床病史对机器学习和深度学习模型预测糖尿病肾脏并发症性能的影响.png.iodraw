@@ -16,7 +16,7 @@
           <mxGeometry x="180" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hcll3WEFr7GsfLon6uwT-2" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 15px;&quot;&gt;连续变量采用Wilcoxon两样本秩和检验进行分析，分类变量视情况采用卡方检验或Fisher精确检验进行分析&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="150" width="200" height="60" as="geometry" />
+          <mxGeometry x="40" y="150" width="200" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
