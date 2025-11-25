@@ -30,6 +30,9 @@
         <mxCell id="AVYRyRNTAXDKSb9ysjYU-3" value="删除重复记录之后：n=66" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="AVYRyRNTAXDKSb9ysjYU-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AVYRyRNTAXDKSb9ysjYU-8" target="AVYRyRNTAXDKSb9ysjYU-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AVYRyRNTAXDKSb9ysjYU-8" value="获得并评估全文文章：n=26" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="390" width="120" height="60" as="geometry" />
         </mxCell>
@@ -37,7 +40,7 @@
           <mxGeometry x="620" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AVYRyRNTAXDKSb9ysjYU-14" value="最终纳入25篇文献进行分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
