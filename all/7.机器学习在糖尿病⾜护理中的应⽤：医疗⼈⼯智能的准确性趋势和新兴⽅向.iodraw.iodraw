@@ -42,6 +42,9 @@
         <mxCell id="AVYRyRNTAXDKSb9ysjYU-14" value="最终纳入25篇文献进行分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="490" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="AVYRyRNTAXDKSb9ysjYU-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
