@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="520" y="130" />
-              <mxPoint x="350" y="130" />
+              <mxPoint x="360" y="130" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -16,7 +16,7 @@
           <mxGeometry x="420" y="30" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AVYRyRNTAXDKSb9ysjYU-2" value="基于标题和摘要进行筛选" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="270" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AVYRyRNTAXDKSb9ysjYU-3" value="删除重复记录之后：n=66" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="120" width="120" height="60" as="geometry" />
