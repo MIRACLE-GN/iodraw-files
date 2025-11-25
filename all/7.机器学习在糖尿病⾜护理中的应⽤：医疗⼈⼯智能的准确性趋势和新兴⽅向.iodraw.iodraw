@@ -7,6 +7,11 @@
         <mxCell id="AVYRyRNTAXDKSb9ysjYU-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AVYRyRNTAXDKSb9ysjYU-1" target="AVYRyRNTAXDKSb9ysjYU-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="AVYRyRNTAXDKSb9ysjYU-6" value="排除非原始性研究&lt;div&gt;与主题不符&lt;/div&gt;&lt;div&gt;未应用机器学习技术&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AVYRyRNTAXDKSb9ysjYU-5">
+          <mxGeometry x="-0.0125" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AVYRyRNTAXDKSb9ysjYU-1" value="数据库识别&lt;div&gt;web of science（n=62）、IEEE Xplore（n=5）、PubMed（n=5）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="30" width="200" height="60" as="geometry" />
         </mxCell>
