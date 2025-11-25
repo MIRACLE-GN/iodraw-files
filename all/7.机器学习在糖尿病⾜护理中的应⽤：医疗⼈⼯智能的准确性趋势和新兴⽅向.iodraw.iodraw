@@ -30,7 +30,7 @@
         <mxCell id="AVYRyRNTAXDKSb9ysjYU-3" value="删除重复记录之后：n=66" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AVYRyRNTAXDKSb9ysjYU-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AVYRyRNTAXDKSb9ysjYU-8" value="获得并评估全文文章：n=26" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AVYRyRNTAXDKSb9ysjYU-12" value="排除记录：n=40" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
