@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="AVYRyRNTAXDKSb9ysjYU-1" value="数据库识别&lt;div&gt;web of science（n=62）、IEEE Xplore（n=5）、PubMed（n=5）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="20" width="200" height="60" as="geometry" />
+          <mxGeometry x="420" y="30" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AVYRyRNTAXDKSb9ysjYU-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="AVYRyRNTAXDKSb9ysjYU-2" value="基于标题和摘要进行筛选" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
