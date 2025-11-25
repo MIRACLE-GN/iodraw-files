@@ -57,6 +57,9 @@
         <mxCell id="AVYRyRNTAXDKSb9ysjYU-21" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;基于临床数据的糖尿病足研究主要利用机器学习模型（如SVM、XGBoost、随机森林等）预测足溃疡复发、截肢风险、死亡率和神经病变严重程度。研究通过分析生化指标、并发症、病史等多维度临床特征，实现了较高的预测准确率（如93%），并识别出IL-10、尿酸、白细胞计数等关键风险标志物。SHAP等可解释性方法进一步揭示了核心风险因素。&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="317.5" y="740" width="212.5" height="260" as="geometry" />
         </mxCell>
+        <mxCell id="AVYRyRNTAXDKSb9ysjYU-22" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;基于临床数据的糖尿病足研究主要利用机器学习模型（如SVM、XGBoost、随机森林等）预测足溃疡复发、截肢风险、死亡率和神经病变严重程度。研究通过分析生化指标、并发症、病史等多维度临床特征，实现了较高的预测准确率（如93%），并识别出IL-10、尿酸、白细胞计数等关键风险标志物。SHAP等可解释性方法进一步揭示了核心风险因素。&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="740" width="212.5" height="260" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
