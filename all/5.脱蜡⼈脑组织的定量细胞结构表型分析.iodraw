@@ -13,8 +13,8 @@
         <mxCell id="BeQf2aVWDtdV-YUtA0KP-4" value="脱蜡与水化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="210" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BeQf2aVWDtdV-YUtA0KP-5" value="FFPE组织块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="170" width="80" height="40" as="geometry" />
+        <mxCell id="BeQf2aVWDtdV-YUtA0KP-5" value="切片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="270" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
