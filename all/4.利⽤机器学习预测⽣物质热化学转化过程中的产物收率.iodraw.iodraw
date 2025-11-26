@@ -36,11 +36,14 @@
         <mxCell id="dIE-eEbNIBnhycU8qsXd-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-680" y="-540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dIE-eEbNIBnhycU8qsXd-11" value="慢速热解模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dIE-eEbNIBnhycU8qsXd-11" value="快速热解模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-640" y="-810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dIE-eEbNIBnhycU8qsXd-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-473" y="-810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dIE-eEbNIBnhycU8qsXd-13" value="快速热解模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="-800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
