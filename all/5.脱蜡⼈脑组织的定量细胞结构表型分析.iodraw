@@ -82,10 +82,10 @@
           <mxGeometry x="155" y="584.5" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BeQf2aVWDtdV-YUtA0KP-17" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;机器学习&lt;span style=&quot;color: rgb(34, 34, 34); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;ilastik&amp;nbsp;&lt;/span&gt;图像分割（&lt;span style=&quot;color: rgb(15, 17, 21); text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;核心算法&lt;/span&gt;&lt;span style=&quot;color: rgb(15, 17, 21); text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;：&lt;/span&gt;&lt;span style=&quot;color: rgb(15, 17, 21); text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;随机森林&lt;/span&gt;）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="142.5" y="660" width="135" height="50" as="geometry" />
+          <mxGeometry x="142.5" y="650" width="135" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BeQf2aVWDtdV-YUtA0KP-18" value="定性细胞结果分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="155" y="740" width="110" height="40" as="geometry" />
+          <mxGeometry x="155" y="730" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
