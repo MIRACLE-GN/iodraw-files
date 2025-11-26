@@ -23,7 +23,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wqs6OelwIl4S5iIyw4R9-8" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wqs6OelwIl4S5iIyw4R9-6">
+        <mxCell id="wqs6OelwIl4S5iIyw4R9-8" value="随机森林填补" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wqs6OelwIl4S5iIyw4R9-6">
           <mxGeometry x="-0.04" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
