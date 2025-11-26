@@ -58,8 +58,14 @@
         <mxCell id="wqs6OelwIl4S5iIyw4R9-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wqs6OelwIl4S5iIyw4R9-15" target="wqs6OelwIl4S5iIyw4R9-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="wqs6OelwIl4S5iIyw4R9-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wqs6OelwIl4S5iIyw4R9-15" target="wqs6OelwIl4S5iIyw4R9-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wqs6OelwIl4S5iIyw4R9-15" value="构建两组机器学习模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="-610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wqs6OelwIl4S5iIyw4R9-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wqs6OelwIl4S5iIyw4R9-16" target="wqs6OelwIl4S5iIyw4R9-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wqs6OelwIl4S5iIyw4R9-16" value="ND组最佳预测模型：SVM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="-510" width="120" height="60" as="geometry" />
