@@ -80,9 +80,6 @@
         <mxCell id="aVZSUKtdWtPUfQoZ6ioq-23" value="综合模型性能&lt;br&gt;ROC曲线、校准曲线和临床决策曲线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aVZSUKtdWtPUfQoZ6ioq-30" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="470" width="140" height="160" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
