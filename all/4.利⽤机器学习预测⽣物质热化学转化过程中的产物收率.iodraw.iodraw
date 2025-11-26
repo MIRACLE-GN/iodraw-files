@@ -58,6 +58,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="dIE-eEbNIBnhycU8qsXd-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dIE-eEbNIBnhycU8qsXd-11" target="dIE-eEbNIBnhycU8qsXd-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-690" y="-740" />
+              <mxPoint x="-620" y="-740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="dIE-eEbNIBnhycU8qsXd-11" value="快速热解模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-750" y="-810" width="120" height="60" as="geometry" />
         </mxCell>
