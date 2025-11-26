@@ -8,7 +8,7 @@
           <mxGeometry x="-320" y="-1150" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dIE-eEbNIBnhycU8qsXd-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;共&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;144&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;组实验数据，包括&lt;/font&gt;&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;慢速热解、快速热解和气化三种过程&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-473" y="-1040" width="120" height="60" as="geometry" />
+          <mxGeometry x="-485" y="-1040" width="143" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
