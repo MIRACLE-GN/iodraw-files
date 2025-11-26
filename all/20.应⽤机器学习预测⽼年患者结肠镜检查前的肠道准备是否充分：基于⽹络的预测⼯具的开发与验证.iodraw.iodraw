@@ -92,7 +92,7 @@
         <mxCell id="IDaDZiIYS3X5pGf5ceF4-26" value="外部验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IDaDZiIYS3X5pGf5ceF4-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IDaDZiIYS3X5pGf5ceF4-27" value="外部验证集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="770" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
