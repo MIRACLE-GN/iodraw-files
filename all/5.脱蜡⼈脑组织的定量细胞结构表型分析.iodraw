@@ -19,8 +19,11 @@
         <mxCell id="BeQf2aVWDtdV-YUtA0KP-6" value="光学透明化处理（SHORT/iDISCO）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="95" y="340" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BeQf2aVWDtdV-YUtA0KP-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BeQf2aVWDtdV-YUtA0KP-8" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;免疫荧光染色&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BeQf2aVWDtdV-YUtA0KP-9" value="光学透明化处理（SHORT/iDISCO）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="350" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
