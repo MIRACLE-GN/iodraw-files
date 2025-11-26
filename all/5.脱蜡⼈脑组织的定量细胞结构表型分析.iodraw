@@ -64,16 +64,6 @@
         <mxCell id="BeQf2aVWDtdV-YUtA0KP-11" value="LSFM成像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="510" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BeQf2aVWDtdV-YUtA0KP-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BeQf2aVWDtdV-YUtA0KP-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="560" as="sourcePoint" />
-            <mxPoint x="210" y="594.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="100" y="570" />
-              <mxPoint x="211" y="570" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BeQf2aVWDtdV-YUtA0KP-12" value="TPFM成像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="45" y="510" width="110" height="40" as="geometry" />
         </mxCell>
