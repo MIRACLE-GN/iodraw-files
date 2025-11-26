@@ -49,7 +49,10 @@
           <mxGeometry x="-520" y="-720" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dIE-eEbNIBnhycU8qsXd-17" value="石油产率回归模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-700" y="-710" width="60" height="100" as="geometry" />
+          <mxGeometry x="-430" y="-720" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dIE-eEbNIBnhycU8qsXd-18" value="焦炭产率回归模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="-710" width="60" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
