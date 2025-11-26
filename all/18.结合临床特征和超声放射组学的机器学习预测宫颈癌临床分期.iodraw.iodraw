@@ -53,14 +53,23 @@
         <mxCell id="aVZSUKtdWtPUfQoZ6ioq-11" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;构建Radscore&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="340" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="aVZSUKtdWtPUfQoZ6ioq-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aVZSUKtdWtPUfQoZ6ioq-12" target="aVZSUKtdWtPUfQoZ6ioq-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aVZSUKtdWtPUfQoZ6ioq-12" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;五种机器学习算法建立预测模型&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aVZSUKtdWtPUfQoZ6ioq-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aVZSUKtdWtPUfQoZ6ioq-13" target="aVZSUKtdWtPUfQoZ6ioq-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aVZSUKtdWtPUfQoZ6ioq-13" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;最佳模型&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;SVM&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aVZSUKtdWtPUfQoZ6ioq-14" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;评估性能&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;FW5BYHxCc_bSNyJv4SuX&quot;&gt;AUC、准确率、敏感性、特异性&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aVZSUKtdWtPUfQoZ6ioq-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aVZSUKtdWtPUfQoZ6ioq-17" target="aVZSUKtdWtPUfQoZ6ioq-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aVZSUKtdWtPUfQoZ6ioq-17" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;构建最终集成模型&lt;br&gt;临床特征+&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Radscore&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="640" width="120" height="60" as="geometry" />
