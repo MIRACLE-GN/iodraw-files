@@ -78,7 +78,10 @@
           <mxGeometry x="660" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IDaDZiIYS3X5pGf5ceF4-21" value="基于6种机器学习算法构建预测模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IDaDZiIYS3X5pGf5ceF4-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
