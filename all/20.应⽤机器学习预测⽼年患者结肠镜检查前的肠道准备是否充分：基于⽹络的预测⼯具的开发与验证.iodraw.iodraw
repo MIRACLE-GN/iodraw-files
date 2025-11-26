@@ -29,7 +29,7 @@
         <mxCell id="IDaDZiIYS3X5pGf5ceF4-6" value="&lt;span style=&quot;color: rgb(51, 51, 51); text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;一名因严重肾功能不全（CKD第5期），另一名因管内肿瘤导致无法完全结肠镜检查&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IDaDZiIYS3X5pGf5ceF4-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IDaDZiIYS3X5pGf5ceF4-9" value="&lt;span style=&quot;color: rgb(51, 51, 51); text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Helvetica&quot;&gt;随机分为训练组（329/471）和验证组（142/471），比例为7：3&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
