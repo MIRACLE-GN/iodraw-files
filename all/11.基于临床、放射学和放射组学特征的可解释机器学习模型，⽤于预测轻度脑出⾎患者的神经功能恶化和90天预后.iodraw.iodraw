@@ -7,6 +7,9 @@
         <mxCell id="wqs6OelwIl4S5iIyw4R9-1" value="南方医院&lt;div&gt;257名轻度ICH患者&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="-1140" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wqs6OelwIl4S5iIyw4R9-2" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;color: rgb(34, 34, 34); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;纳入148名预测ND的患者（&lt;/span&gt;&lt;i style=&quot;box-sizing: inherit; color: rgb(34, 34, 34); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;n&lt;/i&gt;&lt;span style=&quot;color: rgb(34, 34, 34); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;= 21,14.2%），144名预测mRS-90的患者（&lt;/span&gt;&lt;i style=&quot;box-sizing: inherit; color: rgb(34, 34, 34); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;n&lt;/i&gt;&lt;span style=&quot;color: rgb(34, 34, 34); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;= 35,24.3%）&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-1030" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
