@@ -72,7 +72,10 @@
           <mxGeometry x="430" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IDaDZiIYS3X5pGf5ceF4-17" value="&lt;span style=&quot;color: rgb(51, 51, 51); text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;按Boruta特征重要性排名前7、10、13、16和19个特征&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IDaDZiIYS3X5pGf5ceF4-21" value="基于6种机器学习算法构建预测模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="565" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
