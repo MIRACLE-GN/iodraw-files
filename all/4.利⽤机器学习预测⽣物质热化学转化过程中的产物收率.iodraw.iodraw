@@ -179,8 +179,8 @@
         <mxCell id="dIE-eEbNIBnhycU8qsXd-47" value="&lt;span style=&quot;color: rgb(34, 34, 34); font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;氢的产额取决于氧气、碳、氢、挥发物和温度&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-230" y="-588" width="60" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="dIE-eEbNIBnhycU8qsXd-48" value="&lt;span style=&quot;color: rgb(34, 34, 34); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;炭化产率取决于温度、加热速率、碳含量、氧含量以及干燥度（FC + 灰分）&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-390" y="-574" width="60" height="154" as="geometry" />
+        <mxCell id="dIE-eEbNIBnhycU8qsXd-49" value="&lt;span style=&quot;color: rgb(34, 34, 34); font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;氢的产额取决于氧气、碳、氢、挥发物和温度&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="-578" width="60" height="104" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
