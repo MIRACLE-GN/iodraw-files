@@ -92,7 +92,7 @@
         <mxCell id="IDaDZiIYS3X5pGf5ceF4-26" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;外部验证&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 51); text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;hQ95mcxdP1rYqHn2V9dl&quot;&gt;AUC为0.889&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IDaDZiIYS3X5pGf5ceF4-27" value="外部验证集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IDaDZiIYS3X5pGf5ceF4-27" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;外部验证集&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Q9yo4JAbujCv2l-pDcw5&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;共&lt;/font&gt;221&lt;font style=&quot;font-size: 12px;&quot;&gt;例&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="770" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
