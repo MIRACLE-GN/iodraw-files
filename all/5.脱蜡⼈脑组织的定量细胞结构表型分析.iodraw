@@ -38,7 +38,10 @@
           <mxGeometry x="155" y="584.5" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BeQf2aVWDtdV-YUtA0KP-17" value="机器学习图像分割" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="165" y="660" width="110" height="40" as="geometry" />
+          <mxGeometry x="155" y="660" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BeQf2aVWDtdV-YUtA0KP-18" value="机器学习图像分割" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="670" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
