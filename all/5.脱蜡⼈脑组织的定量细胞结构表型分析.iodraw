@@ -20,13 +20,13 @@
           <mxGeometry x="95" y="340" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BeQf2aVWDtdV-YUtA0KP-8" value="&lt;br&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="85" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="585" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BeQf2aVWDtdV-YUtA0KP-9" value="免疫荧光染色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="95" y="400" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BeQf2aVWDtdV-YUtA0KP-10" value="免疫荧光染色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="105" y="410" width="110" height="40" as="geometry" />
+          <mxGeometry x="95" y="480" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
