@@ -40,7 +40,7 @@
         <mxCell id="TIV5zsHGGoTnTR--u4d9-7" value="&lt;span style=&quot;color: rgb(34, 34, 34); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;年龄、身高、体重、碱性磷酸酶活性和骨铁素&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TIV5zsHGGoTnTR--u4d9-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TIV5zsHGGoTnTR--u4d9-10" value="最优系数：0.08" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
