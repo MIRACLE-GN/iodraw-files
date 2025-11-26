@@ -69,6 +69,9 @@
         <mxCell id="dIE-eEbNIBnhycU8qsXd-11" value="快速热解模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-750" y="-810" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="dIE-eEbNIBnhycU8qsXd-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dIE-eEbNIBnhycU8qsXd-12" target="dIE-eEbNIBnhycU8qsXd-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dIE-eEbNIBnhycU8qsXd-12" value="气化模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-240" y="-810" width="120" height="60" as="geometry" />
         </mxCell>
