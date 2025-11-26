@@ -7,7 +7,7 @@
         <mxCell id="BeQf2aVWDtdV-YUtA0KP-1" value="儿童手术样本、&lt;br&gt;成人手术样本、&lt;div&gt;健康成人脑干样本（来自遗体捐赠）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="30" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="BeQf2aVWDtdV-YUtA0KP-2" value="FFPE组织块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BeQf2aVWDtdV-YUtA0KP-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="150" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BeQf2aVWDtdV-YUtA0KP-4" value="脱蜡与水化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
