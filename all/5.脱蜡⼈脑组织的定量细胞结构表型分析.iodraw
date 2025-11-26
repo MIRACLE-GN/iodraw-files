@@ -7,9 +7,6 @@
         <mxCell id="BeQf2aVWDtdV-YUtA0KP-1" value="儿童手术样本、&lt;br&gt;成人手术样本、&lt;div&gt;健康成人脑干样本（来自遗体捐赠）三类&lt;span style=&quot;background-color: initial;&quot;&gt;FFPE组织块&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="30" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="BeQf2aVWDtdV-YUtA0KP-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="150" width="80" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="BeQf2aVWDtdV-YUtA0KP-4" value="脱蜡与水化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="210" width="80" height="40" as="geometry" />
         </mxCell>
@@ -22,7 +19,7 @@
         <mxCell id="BeQf2aVWDtdV-YUtA0KP-8" value="&lt;br&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="585" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BeQf2aVWDtdV-YUtA0KP-9" value="免疫荧光染色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BeQf2aVWDtdV-YUtA0KP-9" value="免疫荧光染色标记" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="95" y="400" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BeQf2aVWDtdV-YUtA0KP-10" value="三维成像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
