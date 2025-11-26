@@ -50,6 +50,9 @@
         <mxCell id="TIV5zsHGGoTnTR--u4d9-10" value="最优系数：0.08" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="300" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TIV5zsHGGoTnTR--u4d9-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
