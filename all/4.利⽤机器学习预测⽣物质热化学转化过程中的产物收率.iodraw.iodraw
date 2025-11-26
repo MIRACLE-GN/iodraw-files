@@ -9,7 +9,7 @@
         </mxCell>
         <mxCell id="dIE-eEbNIBnhycU8qsXd-8" value="纳入标准" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dIE-eEbNIBnhycU8qsXd-6">
           <mxGeometry x="0.0023" y="-1" relative="1" as="geometry">
-            <mxPoint x="71" as="offset" />
+            <mxPoint x="72" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dIE-eEbNIBnhycU8qsXd-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dIE-eEbNIBnhycU8qsXd-1" target="dIE-eEbNIBnhycU8qsXd-5">
@@ -22,7 +22,7 @@
           <mxGeometry x="-496" y="-1010" width="143" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dIE-eEbNIBnhycU8qsXd-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;使用多元回归构建模型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-473" y="-900" width="120" height="60" as="geometry" />
+          <mxGeometry x="-484.5" y="-910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dIE-eEbNIBnhycU8qsXd-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-473" y="-770" width="120" height="60" as="geometry" />
