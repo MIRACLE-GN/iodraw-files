@@ -54,7 +54,7 @@
         <mxCell id="IDaDZiIYS3X5pGf5ceF4-15" value="基于6种机器学习算法构建预测模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="555" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IDaDZiIYS3X5pGf5ceF4-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IDaDZiIYS3X5pGf5ceF4-16" value="最佳模型&lt;br&gt;SVM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IDaDZiIYS3X5pGf5ceF4-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
