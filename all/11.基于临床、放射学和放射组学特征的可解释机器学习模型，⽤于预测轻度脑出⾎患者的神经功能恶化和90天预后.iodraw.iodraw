@@ -58,7 +58,7 @@
         <mxCell id="wqs6OelwIl4S5iIyw4R9-16" value="ND最佳预测模型：SVM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="-510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wqs6OelwIl4S5iIyw4R9-17" value="ND最佳预测模型：SVM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wqs6OelwIl4S5iIyw4R9-17" value="&lt;h3 style=&quot;box-sizing: inherit; line-height: 1.24; -webkit-font-smoothing: antialiased; color: rgb(34, 34, 34); margin: 24px 0px 8px; scroll-margin-top: 74px; text-align: start; background-color: rgb(255, 255, 255);&quot; id=&quot;Sec20&quot; class=&quot;c-article__sub-heading&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;mRS-90&lt;/font&gt;&lt;/h3&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;rK5EUQ6tVrwvOY5XWWFT&quot;&gt;最佳预测模型：SVM&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="-510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
