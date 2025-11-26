@@ -52,13 +52,13 @@
           <mxGeometry x="-454.5" y="-720" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dIE-eEbNIBnhycU8qsXd-18" value="焦炭产率回归模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-353" y="-720" width="60" height="100" as="geometry" />
+          <mxGeometry x="-364.5" y="-720" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dIE-eEbNIBnhycU8qsXd-19" value="甲烷产率回归模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="-720" width="60" height="100" as="geometry" />
+          <mxGeometry x="-280" y="-720" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dIE-eEbNIBnhycU8qsXd-20" value="氢气产率回归模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="-720" width="60" height="100" as="geometry" />
+          <mxGeometry x="-190" y="-720" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dIE-eEbNIBnhycU8qsXd-21" value="CO产率回归模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-273" y="-560" width="60" height="100" as="geometry" />
