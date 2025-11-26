@@ -45,6 +45,9 @@
         <mxCell id="dIE-eEbNIBnhycU8qsXd-13" value="慢速热解模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-500" y="-810" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="dIE-eEbNIBnhycU8qsXd-14" value="气体产率回归模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="-680" width="60" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
