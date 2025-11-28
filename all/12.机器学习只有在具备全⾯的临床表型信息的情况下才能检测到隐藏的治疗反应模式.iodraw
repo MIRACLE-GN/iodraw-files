@@ -61,7 +61,7 @@
         <mxCell id="XT5xuHhFdVzpspU7uwB2-14" value="SHAP可解释性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XT5xuHhFdVzpspU7uwB2-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XT5xuHhFdVzpspU7uwB2-16" value="混淆矩阵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
