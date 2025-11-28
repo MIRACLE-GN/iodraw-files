@@ -64,6 +64,9 @@
         <mxCell id="XT5xuHhFdVzpspU7uwB2-16" value="混淆矩阵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="370" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="XT5xuHhFdVzpspU7uwB2-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
