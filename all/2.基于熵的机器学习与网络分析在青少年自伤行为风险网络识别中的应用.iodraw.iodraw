@@ -34,11 +34,17 @@
         <mxCell id="3b_yOOWoZZ_URZpHz3-g-6" value="特征重要性分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="525" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3b_yOOWoZZ_URZpHz3-g-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3b_yOOWoZZ_URZpHz3-g-7" target="3b_yOOWoZZ_URZpHz3-g-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3b_yOOWoZZ_URZpHz3-g-7" value="网络分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3b_yOOWoZZ_URZpHz3-g-8" value="熵分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3b_yOOWoZZ_URZpHz3-g-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="525" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
