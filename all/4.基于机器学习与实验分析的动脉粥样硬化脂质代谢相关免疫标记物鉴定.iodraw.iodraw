@@ -42,8 +42,14 @@
         <mxCell id="BZwEHrY5kblL2zrsRLQT-12" value="共鉴定出302个关键基因" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="350" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BZwEHrY5kblL2zrsRLQT-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BZwEHrY5kblL2zrsRLQT-16" target="BZwEHrY5kblL2zrsRLQT-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BZwEHrY5kblL2zrsRLQT-16" value="GSE100927&lt;div&gt;GSE43292&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BZwEHrY5kblL2zrsRLQT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BZwEHrY5kblL2zrsRLQT-18" target="BZwEHrY5kblL2zrsRLQT-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BZwEHrY5kblL2zrsRLQT-18" value="数据集整合+去批次" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="250" width="120" height="60" as="geometry" />
