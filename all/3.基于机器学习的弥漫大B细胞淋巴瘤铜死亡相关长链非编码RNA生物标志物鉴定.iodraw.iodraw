@@ -83,7 +83,7 @@
         <mxCell id="kvnZR4ab6cB5_S0pwwV--20" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;color: rgb(15, 17, 21); text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;构建一个基于&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(15, 17, 21); text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Transformer神经网络架构&lt;/span&gt;&lt;span style=&quot;color: rgb(15, 17, 21); text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;的Bagging集成模型&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kvnZR4ab6cB5_S0pwwV--22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kvnZR4ab6cB5_S0pwwV--22" value="训练集通过五折交叉验证优化模型；外部验证集评估模型的泛化能力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
