@@ -20,14 +20,17 @@
         </mxCell>
         <mxCell id="kvnZR4ab6cB5_S0pwwV--7" value="合并" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kvnZR4ab6cB5_S0pwwV--6">
           <mxGeometry x="0.1" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kvnZR4ab6cB5_S0pwwV--2" value="训练集：TCGA数据集+GSE10846共443例&lt;br&gt;&lt;div&gt;外部验证集：GSE11318+GSE23501+GSE53186共388例&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="180" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kvnZR4ab6cB5_S0pwwV--5" value="使用sva包的Combat函数处理组间批次效应" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="227.5" y="290" width="135" height="60" as="geometry" />
+          <mxGeometry x="227.5" y="280" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kvnZR4ab6cB5_S0pwwV--8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
