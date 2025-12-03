@@ -51,7 +51,7 @@
         <mxCell id="Q0AF3EOSKZm4_HFRSsF4-20" value="单细胞数据集&lt;br&gt;GSE155514" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q0AF3EOSKZm4_HFRSsF4-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q0AF3EOSKZm4_HFRSsF4-21" value="验证集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
