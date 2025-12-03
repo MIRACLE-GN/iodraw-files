@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="BZwEHrY5kblL2zrsRLQT-1" value="GEO数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BZwEHrY5kblL2zrsRLQT-2" value="GeneCards数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BZwEHrY5kblL2zrsRLQT-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="BZwEHrY5kblL2zrsRLQT-3" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;脂质代谢&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;评分前50&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
