@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BZwEHrY5kblL2zrsRLQT-1" value="GEO数据库&lt;div&gt;GSE24702、GSE24495、GSE100927、GSE43292&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="30" width="120" height="80" as="geometry" />
+          <mxGeometry x="100" y="30" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BZwEHrY5kblL2zrsRLQT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BZwEHrY5kblL2zrsRLQT-2" target="BZwEHrY5kblL2zrsRLQT-3">
           <mxGeometry relative="1" as="geometry" />
@@ -24,11 +24,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BZwEHrY5kblL2zrsRLQT-3" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;脂质代谢&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;评分前50&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BZwEHrY5kblL2zrsRLQT-3" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;脂质代谢&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;评分前50基因&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BZwEHrY5kblL2zrsRLQT-4" value="GSE24702&lt;div&gt;GSE24495&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
