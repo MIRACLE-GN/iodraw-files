@@ -1,37 +1,76 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="24.7.17">
-  <diagram id="J4axNmNpjKmmCsAr_N2Q" name="第 1 页">
+  <diagram name="第 1 页" id="D-Q39xDRVJHc1AukNbLg">
     <mxGraphModel dx="477" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BZwEHrY5kblL2zrsRLQT-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BZwEHrY5kblL2zrsRLQT-1" target="BZwEHrY5kblL2zrsRLQT-4">
+        <mxCell id="Q0AF3EOSKZm4_HFRSsF4-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q0AF3EOSKZm4_HFRSsF4-2" target="Q0AF3EOSKZm4_HFRSsF4-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BZwEHrY5kblL2zrsRLQT-1" value="GEO数据库&lt;div&gt;GSE24702、GSE24495、GSE100927、GSE43292&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="30" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="BZwEHrY5kblL2zrsRLQT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BZwEHrY5kblL2zrsRLQT-2" target="BZwEHrY5kblL2zrsRLQT-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BZwEHrY5kblL2zrsRLQT-2" value="GeneCards数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BZwEHrY5kblL2zrsRLQT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BZwEHrY5kblL2zrsRLQT-3" target="BZwEHrY5kblL2zrsRLQT-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BZwEHrY5kblL2zrsRLQT-8" value="ssGSEA评分" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BZwEHrY5kblL2zrsRLQT-7">
-          <mxGeometry y="-1" relative="1" as="geometry">
+        <mxCell id="Q0AF3EOSKZm4_HFRSsF4-5" value="训练集合并+去批次" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q0AF3EOSKZm4_HFRSsF4-4">
+          <mxGeometry x="-0.04" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BZwEHrY5kblL2zrsRLQT-3" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;脂质代谢&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;评分前50基因&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="Q0AF3EOSKZm4_HFRSsF4-2" value="5个训练集&lt;br&gt;GSE120521、GSE41571、GSE163154、&lt;div&gt;GSE111782和&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;GSE43292&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="40" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="BZwEHrY5kblL2zrsRLQT-4" value="GSE24702&lt;div&gt;GSE24495&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="Q0AF3EOSKZm4_HFRSsF4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q0AF3EOSKZm4_HFRSsF4-3" target="Q0AF3EOSKZm4_HFRSsF4-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BZwEHrY5kblL2zrsRLQT-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="Q0AF3EOSKZm4_HFRSsF4-3" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;置于&lt;span style=&quot;color: rgb(40, 40, 40); text-align: start; background-color: rgb(247, 247, 247);&quot;&gt;CIBERSORT中，以估算混合细胞群体中浸润免疫细胞的丰度&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="220" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0AF3EOSKZm4_HFRSsF4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q0AF3EOSKZm4_HFRSsF4-6" target="Q0AF3EOSKZm4_HFRSsF4-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0AF3EOSKZm4_HFRSsF4-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q0AF3EOSKZm4_HFRSsF4-6" target="Q0AF3EOSKZm4_HFRSsF4-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0AF3EOSKZm4_HFRSsF4-6" value="&lt;font color=&quot;#282828&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247);&quot;&gt;差异表达分析&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#282828&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247);&quot;&gt;limma包&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0AF3EOSKZm4_HFRSsF4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q0AF3EOSKZm4_HFRSsF4-9" target="Q0AF3EOSKZm4_HFRSsF4-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0AF3EOSKZm4_HFRSsF4-9" value="&lt;span style=&quot;color: rgb(40, 40, 40); background-color: rgb(247, 247, 247);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;机器学习筛选关键特征&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#282828&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247);&quot;&gt;LASSO+随机森林算法&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="125" y="430" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0AF3EOSKZm4_HFRSsF4-13" value="功能富集分析&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:宋体;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;ClusterProfiler包&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0AF3EOSKZm4_HFRSsF4-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q0AF3EOSKZm4_HFRSsF4-15" target="Q0AF3EOSKZm4_HFRSsF4-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0AF3EOSKZm4_HFRSsF4-15" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;单细胞水平验证与细胞亚群功能分析&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;YAmCcLAknFcnB0Z3GDwm&quot;&gt;&amp;nbsp;Seurat 包&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0AF3EOSKZm4_HFRSsF4-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q0AF3EOSKZm4_HFRSsF4-17" target="Q0AF3EOSKZm4_HFRSsF4-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0AF3EOSKZm4_HFRSsF4-17" value="调控网络构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0AF3EOSKZm4_HFRSsF4-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q0AF3EOSKZm4_HFRSsF4-19" target="Q0AF3EOSKZm4_HFRSsF4-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0AF3EOSKZm4_HFRSsF4-19" value="诊断标志物验证与治疗药物预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0AF3EOSKZm4_HFRSsF4-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q0AF3EOSKZm4_HFRSsF4-20" target="Q0AF3EOSKZm4_HFRSsF4-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0AF3EOSKZm4_HFRSsF4-20" value="单细胞数据集&lt;br&gt;GSE155514" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0AF3EOSKZm4_HFRSsF4-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q0AF3EOSKZm4_HFRSsF4-21" target="Q0AF3EOSKZm4_HFRSsF4-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0AF3EOSKZm4_HFRSsF4-21" value="验证集&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:Calibri;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;Calibri&quot;&gt;E-MTAB-2055&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0AF3EOSKZm4_HFRSsF4-27" value="M1巨噬细胞是不稳定斑块形成的重要原因，CD68、PAM和IGFBP6也是早期识别不稳定斑块的诊断标志" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="122.5" y="870" width="135" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
