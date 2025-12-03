@@ -30,6 +30,9 @@
         <mxCell id="BZwEHrY5kblL2zrsRLQT-4" value="GSE24702&lt;div&gt;GSE24495&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="150" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BZwEHrY5kblL2zrsRLQT-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
