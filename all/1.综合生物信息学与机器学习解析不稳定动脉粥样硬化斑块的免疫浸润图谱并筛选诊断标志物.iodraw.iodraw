@@ -32,6 +32,11 @@
         <mxCell id="Q0AF3EOSKZm4_HFRSsF4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q0AF3EOSKZm4_HFRSsF4-6" target="Q0AF3EOSKZm4_HFRSsF4-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Q0AF3EOSKZm4_HFRSsF4-12" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;使用LASSO回归和随机森林算法&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q0AF3EOSKZm4_HFRSsF4-11">
+          <mxGeometry x="-0.04" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Q0AF3EOSKZm4_HFRSsF4-6" value="&lt;span style=&quot;color: rgb(40, 40, 40); text-align: start; background-color: rgb(247, 247, 247);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;差异性免疫细胞&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="410" width="120" height="60" as="geometry" />
         </mxCell>
