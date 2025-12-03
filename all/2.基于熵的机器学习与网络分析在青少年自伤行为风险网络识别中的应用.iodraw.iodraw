@@ -7,6 +7,9 @@
         <mxCell id="3b_yOOWoZZ_URZpHz3-g-1" value="数据收集&lt;div&gt;1088名男生，959名女生&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="100" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3b_yOOWoZZ_URZpHz3-g-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
