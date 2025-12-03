@@ -33,6 +33,9 @@
         <mxCell id="Q0AF3EOSKZm4_HFRSsF4-6" value="&lt;font color=&quot;#282828&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247);&quot;&gt;差异表达分析&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#282828&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247);&quot;&gt;limma包&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="390" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Q0AF3EOSKZm4_HFRSsF4-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q0AF3EOSKZm4_HFRSsF4-9" target="Q0AF3EOSKZm4_HFRSsF4-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Q0AF3EOSKZm4_HFRSsF4-9" value="&lt;span style=&quot;color: rgb(40, 40, 40); background-color: rgb(247, 247, 247);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;机器学习筛选关键特征&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#282828&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247);&quot;&gt;LASSO+随机森林算法&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="95" y="490" width="130" height="60" as="geometry" />
         </mxCell>
@@ -40,7 +43,7 @@
           <mxGeometry x="270" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q0AF3EOSKZm4_HFRSsF4-15" value="单细胞测序验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q0AF3EOSKZm4_HFRSsF4-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="650" width="120" height="60" as="geometry" />
