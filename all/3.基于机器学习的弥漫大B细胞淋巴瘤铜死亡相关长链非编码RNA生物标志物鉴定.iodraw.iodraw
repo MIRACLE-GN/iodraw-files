@@ -51,6 +51,11 @@
             <mxPoint y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="kvnZR4ab6cB5_S0pwwV--27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kvnZR4ab6cB5_S0pwwV--9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="629.9999999999998" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kvnZR4ab6cB5_S0pwwV--9" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;铜代谢与细胞死亡途径19个相关基因&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="180" width="120" height="60" as="geometry" />
         </mxCell>
@@ -63,7 +68,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kvnZR4ab6cB5_S0pwwV--10" value="&lt;span style=&quot;color: rgb(34, 34, 34); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;1134个lncRNA&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kvnZR4ab6cB5_S0pwwV--19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kvnZR4ab6cB5_S0pwwV--15" target="kvnZR4ab6cB5_S0pwwV--16">
           <mxGeometry relative="1" as="geometry" />
