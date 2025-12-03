@@ -20,10 +20,10 @@
           <mxGeometry x="50" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3b_yOOWoZZ_URZpHz3-g-6" value="特征重要性分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3b_yOOWoZZ_URZpHz3-g-7" value="网络分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3b_yOOWoZZ_URZpHz3-g-8" value="熵分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="760" width="120" height="60" as="geometry" />
