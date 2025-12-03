@@ -86,7 +86,7 @@
         <mxCell id="kvnZR4ab6cB5_S0pwwV--22" value="训练集通过五折交叉验证优化模型；外部验证集评估模型的泛化能力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="525" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kvnZR4ab6cB5_S0pwwV--28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kvnZR4ab6cB5_S0pwwV--28" value="最优模型性能评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
