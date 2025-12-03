@@ -15,11 +15,14 @@
         <mxCell id="kvnZR4ab6cB5_S0pwwV--1" value="TCGA数据库&lt;div&gt;GEO数据库&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="70" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kvnZR4ab6cB5_S0pwwV--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kvnZR4ab6cB5_S0pwwV--2" target="kvnZR4ab6cB5_S0pwwV--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kvnZR4ab6cB5_S0pwwV--2" value="训练集：TCGA数据集+GSE10846共443例&lt;br&gt;&lt;div&gt;外部验证集：GSE11318+GSE23501+GSE53186共388例&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="180" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kvnZR4ab6cB5_S0pwwV--5" value="使用sva包的Combat函数处理组间批次效应" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="235" y="280" width="135" height="60" as="geometry" />
+          <mxGeometry x="227.5" y="280" width="135" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
