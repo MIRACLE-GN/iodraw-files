@@ -95,6 +95,9 @@
         <mxCell id="BZwEHrY5kblL2zrsRLQT-35" value="10个最密切的基因" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="660" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BZwEHrY5kblL2zrsRLQT-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
