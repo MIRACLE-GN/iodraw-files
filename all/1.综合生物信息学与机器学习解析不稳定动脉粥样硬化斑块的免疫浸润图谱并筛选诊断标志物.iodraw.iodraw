@@ -49,7 +49,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q0AF3EOSKZm4_HFRSsF4-17" value="调控网络构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q0AF3EOSKZm4_HFRSsF4-19" value="诊断标志物验证与治疗药物预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="790" width="120" height="60" as="geometry" />
@@ -58,7 +58,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q0AF3EOSKZm4_HFRSsF4-20" value="单细胞数据集&lt;br&gt;GSE155514" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q0AF3EOSKZm4_HFRSsF4-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q0AF3EOSKZm4_HFRSsF4-21" target="Q0AF3EOSKZm4_HFRSsF4-19">
           <mxGeometry relative="1" as="geometry" />
