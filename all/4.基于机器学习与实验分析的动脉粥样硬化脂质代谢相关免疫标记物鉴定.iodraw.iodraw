@@ -30,7 +30,7 @@
         <mxCell id="BZwEHrY5kblL2zrsRLQT-4" value="GSE24702&lt;div&gt;GSE24495&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BZwEHrY5kblL2zrsRLQT-9" value="GSE24702做WGCNA分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BZwEHrY5kblL2zrsRLQT-9" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;样本被分为高脂质代谢组和低脂质代谢组&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
