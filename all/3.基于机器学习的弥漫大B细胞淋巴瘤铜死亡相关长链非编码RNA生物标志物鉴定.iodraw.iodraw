@@ -89,8 +89,14 @@
         <mxCell id="kvnZR4ab6cB5_S0pwwV--22" value="训练集通过五折交叉验证优化模型；外部验证集评估模型的泛化能力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="525" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kvnZR4ab6cB5_S0pwwV--32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kvnZR4ab6cB5_S0pwwV--28" target="kvnZR4ab6cB5_S0pwwV--30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kvnZR4ab6cB5_S0pwwV--28" value="最优模型性能评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kvnZR4ab6cB5_S0pwwV--33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kvnZR4ab6cB5_S0pwwV--30" target="kvnZR4ab6cB5_S0pwwV--31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kvnZR4ab6cB5_S0pwwV--30" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot; color=&quot;#222222&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;定量PCR评估lncRNA在多种DLBCL细胞系中的表达模式&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="235" y="730" width="120" height="60" as="geometry" />
