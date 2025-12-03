@@ -16,15 +16,9 @@
         <mxCell id="BZwEHrY5kblL2zrsRLQT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BZwEHrY5kblL2zrsRLQT-2" target="BZwEHrY5kblL2zrsRLQT-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BZwEHrY5kblL2zrsRLQT-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="BZwEHrY5kblL2zrsRLQT-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BZwEHrY5kblL2zrsRLQT-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="835" y="170" as="sourcePoint" />
-            <mxPoint x="745" y="970" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="895" y="170" />
-              <mxPoint x="895" y="1050" />
-              <mxPoint x="535" y="1050" />
-            </Array>
+            <mxPoint x="770" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BZwEHrY5kblL2zrsRLQT-2" value="GeneCards数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
