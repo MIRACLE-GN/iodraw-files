@@ -30,8 +30,8 @@
         <mxCell id="Q0AF3EOSKZm4_HFRSsF4-6" value="&lt;font color=&quot;#282828&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247);&quot;&gt;差异表达分析&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q0AF3EOSKZm4_HFRSsF4-9" value="&lt;span style=&quot;color: rgb(40, 40, 40); text-align: start; background-color: rgb(247, 247, 247);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;识别疾病关键细胞类型&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="580" width="120" height="60" as="geometry" />
+        <mxCell id="Q0AF3EOSKZm4_HFRSsF4-9" value="&lt;span style=&quot;color: rgb(40, 40, 40); text-align: start; background-color: rgb(247, 247, 247);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;机器学习筛选关键特征&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="510" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
