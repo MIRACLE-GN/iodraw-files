@@ -54,6 +54,9 @@
         <mxCell id="BZwEHrY5kblL2zrsRLQT-20" value="差异分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="350" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BZwEHrY5kblL2zrsRLQT-21" value="上调基因" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
