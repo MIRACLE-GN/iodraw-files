@@ -19,6 +19,9 @@
         <mxCell id="bmfYLLWoSYH4FIfZ48EQ-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;过滤缺失临床+生存信息的样本&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;449&lt;font style=&quot;font-size: 15px;&quot; face=&quot;宋体&quot;&gt;个癌症样本和&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;39&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;宋体&quot;&gt;个正常样本&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="30" width="240" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="bmfYLLWoSYH4FIfZ48EQ-8" value="差异表达分析&lt;div&gt;|logFC|&amp;gt;1,&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 12pt; background-color: initial;&quot;&gt;adj.p.value&amp;lt;0.05&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
