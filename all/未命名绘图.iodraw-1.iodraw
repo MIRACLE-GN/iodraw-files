@@ -40,9 +40,6 @@
         <mxCell id="bmfYLLWoSYH4FIfZ48EQ-10" value="功能富集分析&lt;div&gt;GO，KEGG，GSEA&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="65" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bmfYLLWoSYH4FIfZ48EQ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bmfYLLWoSYH4FIfZ48EQ-11" target="bmfYLLWoSYH4FIfZ48EQ-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="bmfYLLWoSYH4FIfZ48EQ-11" value="剔除正常样本&lt;div&gt;单变量Cox回归分析&lt;/div&gt;&lt;div&gt;33个基因&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="230" width="120" height="60" as="geometry" />
         </mxCell>
@@ -50,10 +47,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bmfYLLWoSYH4FIfZ48EQ-16" value="&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:&#39;Times New Roman&#39;;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:12.0000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;极限梯度提升算法（XBGoost）&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:&#39;Times New Roman&#39;;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:12.0000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;取gain均值前14个基因&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="65" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bmfYLLWoSYH4FIfZ48EQ-18" value="LASSO回归&lt;div&gt;11个基因+预后模型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="65" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bmfYLLWoSYH4FIfZ48EQ-20" value="KM曲线、AUC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="480" width="120" height="60" as="geometry" />
