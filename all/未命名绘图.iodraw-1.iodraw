@@ -40,6 +40,9 @@
         <mxCell id="bmfYLLWoSYH4FIfZ48EQ-10" value="功能富集分析&lt;div&gt;GO，KEGG，GSEA&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="65" y="130" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="bmfYLLWoSYH4FIfZ48EQ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bmfYLLWoSYH4FIfZ48EQ-11" target="bmfYLLWoSYH4FIfZ48EQ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bmfYLLWoSYH4FIfZ48EQ-11" value="剔除正常样本&lt;div&gt;单变量Cox回归分析&lt;/div&gt;&lt;div&gt;33个基因&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="230" width="120" height="60" as="geometry" />
         </mxCell>
