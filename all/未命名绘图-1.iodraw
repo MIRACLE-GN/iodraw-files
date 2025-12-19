@@ -140,6 +140,9 @@
         <mxCell id="sWyZdLeA403wrJ6zyOl2-51" value="免疫浸润" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="910" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="sWyZdLeA403wrJ6zyOl2-55" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
