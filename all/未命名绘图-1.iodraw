@@ -58,8 +58,8 @@
         <mxCell id="sWyZdLeA403wrJ6zyOl2-22" value="PPI网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sWyZdLeA403wrJ6zyOl2-23" value="DESeq2差异表达分析&lt;div&gt;|logFC|&amp;gt;1,adj.p&amp;lt;0.05&lt;/div&gt;&lt;div&gt;26个上调基因&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="360" width="120" height="60" as="geometry" />
+        <mxCell id="sWyZdLeA403wrJ6zyOl2-23" value="limma-voom差异表达分析&lt;div&gt;|logFC|&amp;gt;1,adj.p&amp;lt;0.05&lt;/div&gt;&lt;div&gt;26个上调基因&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
