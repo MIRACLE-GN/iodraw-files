@@ -43,6 +43,12 @@
         <mxCell id="sWyZdLeA403wrJ6zyOl2-14" value="DESeq2差异表达分析&lt;div&gt;26个上调基因&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="350" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="sWyZdLeA403wrJ6zyOl2-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="410" as="sourcePoint" />
+            <mxPoint x="290" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
