@@ -13,7 +13,7 @@
         <mxCell id="sWyZdLeA403wrJ6zyOl2-1" value="TCGA-Liver&lt;div&gt;424个样本&lt;/div&gt;&lt;div&gt;N=50，T=374&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sWyZdLeA403wrJ6zyOl2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sWyZdLeA403wrJ6zyOl2-2" target="sWyZdLeA403wrJ6zyOl2-7">
+        <mxCell id="sWyZdLeA403wrJ6zyOl2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="sWyZdLeA403wrJ6zyOl2-2" target="sWyZdLeA403wrJ6zyOl2-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sWyZdLeA403wrJ6zyOl2-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="sWyZdLeA403wrJ6zyOl2-2" target="sWyZdLeA403wrJ6zyOl2-23">
