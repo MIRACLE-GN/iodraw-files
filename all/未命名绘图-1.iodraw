@@ -19,7 +19,7 @@
         <mxCell id="sWyZdLeA403wrJ6zyOl2-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="sWyZdLeA403wrJ6zyOl2-2" target="sWyZdLeA403wrJ6zyOl2-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sWyZdLeA403wrJ6zyOl2-2" value="样本383&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;N=41，T&lt;/span&gt;=342&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sWyZdLeA403wrJ6zyOl2-2" value="样本383&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;N=41，T&lt;/span&gt;=342&lt;/div&gt;&lt;div&gt;2w+基因&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sWyZdLeA403wrJ6zyOl2-4" value="过滤掉临床信息与生存信息缺失的样本41例" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -66,7 +66,7 @@
         <mxCell id="sWyZdLeA403wrJ6zyOl2-21" value="列线表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sWyZdLeA403wrJ6zyOl2-22" value="PPI网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sWyZdLeA403wrJ6zyOl2-22" value="PPI网络" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sWyZdLeA403wrJ6zyOl2-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="sWyZdLeA403wrJ6zyOl2-23" target="sWyZdLeA403wrJ6zyOl2-26">
@@ -104,9 +104,6 @@
         </mxCell>
         <mxCell id="sWyZdLeA403wrJ6zyOl2-41" value="验证集&lt;div&gt;GSE76427&lt;/div&gt;&lt;div&gt;115有临床信息的样本&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="525" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sWyZdLeA403wrJ6zyOl2-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.917;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sWyZdLeA403wrJ6zyOl2-22" target="sWyZdLeA403wrJ6zyOl2-22">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
