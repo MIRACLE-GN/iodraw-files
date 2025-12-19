@@ -34,9 +34,6 @@
         <mxCell id="sWyZdLeA403wrJ6zyOl2-8" value="msigdb数据库氧化应激、铁稳态相关基因列表（1460个基因）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sWyZdLeA403wrJ6zyOl2-11" value="DESeq2差异表达分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="330" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="sWyZdLeA403wrJ6zyOl2-12" value="XGBoost特征筛选&lt;div&gt;24个基因&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="420" width="120" height="60" as="geometry" />
         </mxCell>
