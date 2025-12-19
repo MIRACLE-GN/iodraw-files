@@ -102,7 +102,7 @@
         <mxCell id="sWyZdLeA403wrJ6zyOl2-40" value="XGBoost生存建模？" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sWyZdLeA403wrJ6zyOl2-41" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sWyZdLeA403wrJ6zyOl2-41" value="验证集&lt;div&gt;GSE76427&lt;/div&gt;&lt;div&gt;115有临床信息的样本&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="525" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
