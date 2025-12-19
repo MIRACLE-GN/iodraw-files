@@ -64,7 +64,7 @@
           <mxGeometry x="190" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sWyZdLeA403wrJ6zyOl2-21" value="列线表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="615" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sWyZdLeA403wrJ6zyOl2-22" value="PPI网络" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="495" width="120" height="60" as="geometry" />
@@ -104,7 +104,7 @@
           <mxGeometry x="200" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sWyZdLeA403wrJ6zyOl2-41" value="验证集&lt;div&gt;GSE76427&lt;/div&gt;&lt;div&gt;有115临床信息的样本&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="675" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sWyZdLeA403wrJ6zyOl2-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="sWyZdLeA403wrJ6zyOl2-43" target="sWyZdLeA403wrJ6zyOl2-44">
           <mxGeometry relative="1" as="geometry" />
