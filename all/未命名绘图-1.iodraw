@@ -13,6 +13,9 @@
         <mxCell id="sWyZdLeA403wrJ6zyOl2-2" value="样本383&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;N=41，T&lt;/span&gt;=342&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="140" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="sWyZdLeA403wrJ6zyOl2-4" value="过滤掉临床信息与生存信息缺失的样本41例" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
