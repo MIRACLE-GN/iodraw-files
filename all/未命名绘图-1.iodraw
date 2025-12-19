@@ -55,10 +55,10 @@
           <mxGeometry x="20" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sWyZdLeA403wrJ6zyOl2-18" value="单因素Cox" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sWyZdLeA403wrJ6zyOl2-19" value="LASSO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sWyZdLeA403wrJ6zyOl2-20" value="多因素" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="650" width="120" height="60" as="geometry" />
