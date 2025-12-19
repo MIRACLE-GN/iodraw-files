@@ -67,11 +67,6 @@
         <mxCell id="sWyZdLeA403wrJ6zyOl2-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="sWyZdLeA403wrJ6zyOl2-23" target="sWyZdLeA403wrJ6zyOl2-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sWyZdLeA403wrJ6zyOl2-30" value="交集23个" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sWyZdLeA403wrJ6zyOl2-29">
-          <mxGeometry y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sWyZdLeA403wrJ6zyOl2-23" value="limma-voom差异表达分析&lt;div&gt;|logFC|&amp;gt;1,adj.p&amp;lt;0.05&lt;/div&gt;&lt;div&gt;个上下调基因500+&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="170" width="120" height="60" as="geometry" />
         </mxCell>
