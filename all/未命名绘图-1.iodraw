@@ -4,11 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sWyZdLeA403wrJ6zyOl2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sWyZdLeA403wrJ6zyOl2-1" target="sWyZdLeA403wrJ6zyOl2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sWyZdLeA403wrJ6zyOl2-1" value="TCGA-Liver&lt;div&gt;424个样本&lt;/div&gt;&lt;div&gt;N=50，T=374&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sWyZdLeA403wrJ6zyOl2-2" value="样本383&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;N=41，T&lt;/span&gt;=342&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
