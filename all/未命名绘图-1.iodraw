@@ -55,8 +55,8 @@
         <mxCell id="sWyZdLeA403wrJ6zyOl2-21" value="列线表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sWyZdLeA403wrJ6zyOl2-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="680" width="120" height="60" as="geometry" />
+        <mxCell id="sWyZdLeA403wrJ6zyOl2-22" value="PPI网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
