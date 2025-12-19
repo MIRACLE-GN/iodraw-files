@@ -67,7 +67,7 @@
           <mxGeometry x="320" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sWyZdLeA403wrJ6zyOl2-22" value="PPI网络" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="495" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sWyZdLeA403wrJ6zyOl2-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="sWyZdLeA403wrJ6zyOl2-23" target="sWyZdLeA403wrJ6zyOl2-26">
           <mxGeometry relative="1" as="geometry" />
