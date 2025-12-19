@@ -25,7 +25,7 @@
         <mxCell id="sWyZdLeA403wrJ6zyOl2-4" value="过滤掉临床信息与生存信息缺失的样本41例" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sWyZdLeA403wrJ6zyOl2-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sWyZdLeA403wrJ6zyOl2-7" target="sWyZdLeA403wrJ6zyOl2-12">
+        <mxCell id="sWyZdLeA403wrJ6zyOl2-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="sWyZdLeA403wrJ6zyOl2-7" target="sWyZdLeA403wrJ6zyOl2-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sWyZdLeA403wrJ6zyOl2-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="sWyZdLeA403wrJ6zyOl2-7" target="sWyZdLeA403wrJ6zyOl2-14">
