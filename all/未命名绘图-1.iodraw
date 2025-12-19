@@ -19,11 +19,11 @@
         <mxCell id="sWyZdLeA403wrJ6zyOl2-4" value="过滤掉临床信息与生存信息缺失的样本41例" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sWyZdLeA403wrJ6zyOl2-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="270" width="120" height="60" as="geometry" />
+        <mxCell id="sWyZdLeA403wrJ6zyOl2-7" value="1383行基因&lt;div&gt;383列样本&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sWyZdLeA403wrJ6zyOl2-8" value="msigdb数据库氧化应激、铁稳态相关基因列表（1460个基因）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
