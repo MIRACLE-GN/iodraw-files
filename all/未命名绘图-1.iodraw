@@ -55,7 +55,7 @@
           <mxGeometry x="20" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sWyZdLeA403wrJ6zyOl2-18" value="单因素Cox" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sWyZdLeA403wrJ6zyOl2-19" value="LASSO" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="700" width="120" height="60" as="geometry" />
@@ -100,7 +100,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sWyZdLeA403wrJ6zyOl2-40" value="XGBoost生存建模？" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sWyZdLeA403wrJ6zyOl2-41" value="验证集&lt;div&gt;GSE76427&lt;/div&gt;&lt;div&gt;有115临床信息的样本&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="540" width="120" height="60" as="geometry" />
