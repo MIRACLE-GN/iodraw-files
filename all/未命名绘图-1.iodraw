@@ -49,8 +49,11 @@
         <mxCell id="sWyZdLeA403wrJ6zyOl2-19" value="LASSO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="585" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sWyZdLeA403wrJ6zyOl2-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sWyZdLeA403wrJ6zyOl2-20" value="多因素" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="645" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sWyZdLeA403wrJ6zyOl2-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="770" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
