@@ -78,6 +78,9 @@
         <mxCell id="sWyZdLeA403wrJ6zyOl2-26" value="23个" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="290" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="sWyZdLeA403wrJ6zyOl2-34" value="XGBoost特征筛选&lt;div&gt;16个基因&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
