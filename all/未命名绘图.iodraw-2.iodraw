@@ -29,10 +29,10 @@
           <mxGeometry x="30" y="390" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FK370kylmCqhsryoIBBU-9" value="7个基因分别在激活通路和抑制通路的相关性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FK370kylmCqhsryoIBBU-10" value="前三个重要基因" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FK370kylmCqhsryoIBBU-11" value="高风险组&lt;div&gt;低风险组&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="400" width="120" height="60" as="geometry" />
