@@ -31,7 +31,7 @@
         <mxCell id="FK370kylmCqhsryoIBBU-9" value="7个基因分别在激活通路和抑制通路的相关性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FK370kylmCqhsryoIBBU-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FK370kylmCqhsryoIBBU-10" value="最显著基因" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
