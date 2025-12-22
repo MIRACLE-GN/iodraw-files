@@ -10,6 +10,12 @@
         <mxCell id="FK370kylmCqhsryoIBBU-2" value="差异表达分析：log|FC|&amp;gt;1.58,adj.p&amp;lt;0.05&lt;div&gt;DEGs=1324；iron相关基因1317；交集161个基因&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="110" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FK370kylmCqhsryoIBBU-3" value="Boruta筛选&lt;br&gt;44个基因" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FK370kylmCqhsryoIBBU-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
