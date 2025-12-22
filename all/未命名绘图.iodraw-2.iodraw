@@ -23,10 +23,10 @@
           <mxGeometry x="380" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FK370kylmCqhsryoIBBU-7" value="氧化135个相关通路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FK370kylmCqhsryoIBBU-8" value="GSEA+GSVA&lt;br&gt;筛选|NES|&amp;gt;1,p&amp;lt;0.05，过滤掉无关通路最终得11个显著通路，8条up，3条down" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="410" width="160" height="60" as="geometry" />
+          <mxGeometry x="160" y="210" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
