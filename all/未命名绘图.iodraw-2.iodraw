@@ -26,7 +26,7 @@
           <mxGeometry x="180" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FK370kylmCqhsryoIBBU-8" value="GSEA+GSVA&lt;br&gt;筛选|NES|&amp;gt;1,p&amp;lt;0.05，过滤掉无关通路最终得11个显著通路，8条up，3条down" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="390" width="160" height="60" as="geometry" />
+          <mxGeometry x="50" y="555" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FK370kylmCqhsryoIBBU-9" value="7个基因分别在激活通路和抑制通路的相关性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="640" width="120" height="60" as="geometry" />
@@ -36,6 +36,9 @@
         </mxCell>
         <mxCell id="FK370kylmCqhsryoIBBU-11" value="高风险组&lt;div&gt;低风险组&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FK370kylmCqhsryoIBBU-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
