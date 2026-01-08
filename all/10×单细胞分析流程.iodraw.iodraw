@@ -30,6 +30,9 @@
         <mxCell id="q_-dLFK2vTkKk4gghY7k-8" value="洗涤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="460" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="q_-dLFK2vTkKk4gghY7k-9" value="悬浮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
