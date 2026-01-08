@@ -7,6 +7,11 @@
         <mxCell id="q_-dLFK2vTkKk4gghY7k-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q_-dLFK2vTkKk4gghY7k-1" target="q_-dLFK2vTkKk4gghY7k-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="q_-dLFK2vTkKk4gghY7k-6" value="去除红细胞" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q_-dLFK2vTkKk4gghY7k-5">
+          <mxGeometry x="-0.0667" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="q_-dLFK2vTkKk4gghY7k-1" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;2018.12-2020.12&lt;span style=&quot;color: rgb(27, 27, 27); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;郑州大学第一附属医院体检科招募了369名受试者（232名男性，137名女性，年龄超过45岁）&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="30" width="160" height="60" as="geometry" />
         </mxCell>
@@ -14,7 +19,7 @@
           <mxGeometry x="260" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q_-dLFK2vTkKk4gghY7k-3" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;解离&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(27, 27, 27); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;rm47OXMZ8lPsy9Phcqa9&quot;&gt;SeekGene的组织解离试剂A&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q_-dLFK2vTkKk4gghY7k-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="290" width="120" height="60" as="geometry" />
