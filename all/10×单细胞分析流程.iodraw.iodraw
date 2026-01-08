@@ -17,7 +17,7 @@
           <mxGeometry x="670" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cdRkBJnGzkoVFhO0CqQl-6" value="数据标准化NormalizeData" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cdRkBJnGzkoVFhO0CqQl-7" value="识别高变基因&lt;div&gt;FindVariableFeatures&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="250" width="120" height="60" as="geometry" />
