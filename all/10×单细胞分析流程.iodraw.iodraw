@@ -25,6 +25,9 @@
         <mxCell id="cdRkBJnGzkoVFhO0CqQl-8" value="数据缩放（归一化）&lt;div&gt;ScaleData&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="560" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cdRkBJnGzkoVFhO0CqQl-9" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;SCT&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(27, 27, 27); font-family: Cambria, &amp;quot;Cambria Math&amp;quot;, Charter, &amp;quot;Times New Roman&amp;quot;, Times, stixgeneral, serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;用于标准化、归一化并去除所有单细胞数据中的批量效应&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
