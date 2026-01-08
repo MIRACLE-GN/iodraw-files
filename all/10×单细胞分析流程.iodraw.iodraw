@@ -22,7 +22,7 @@
         <mxCell id="cdRkBJnGzkoVFhO0CqQl-7" value="识别高变基因&lt;div&gt;FindVariableFeatures&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cdRkBJnGzkoVFhO0CqQl-8" value="数据缩放（归一化）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cdRkBJnGzkoVFhO0CqQl-8" value="数据缩放（归一化）&lt;div&gt;ScaleData&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
