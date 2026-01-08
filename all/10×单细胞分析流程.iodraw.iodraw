@@ -27,7 +27,7 @@
         <mxCell id="q_-dLFK2vTkKk4gghY7k-7" value="碎屑与死细胞清除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q_-dLFK2vTkKk4gghY7k-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q_-dLFK2vTkKk4gghY7k-8" value="洗涤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
