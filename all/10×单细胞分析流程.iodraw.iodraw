@@ -24,6 +24,9 @@
         <mxCell id="q_-dLFK2vTkKk4gghY7k-4" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;color: rgb(27, 27, 27); font-family: Cambria, &amp;quot;Cambria Math&amp;quot;, Charter, &amp;quot;Times New Roman&amp;quot;, Times, stixgeneral, serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;荧光细胞分析仪&lt;/span&gt;&lt;span style=&quot;color: rgb(27, 27, 27); font-family: Cambria, &amp;quot;Cambria Math&amp;quot;, Charter, &amp;quot;Times New Roman&amp;quot;, Times, stixgeneral, serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;和AO/PI试剂&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(27, 27, 27); font-family: Cambria, &amp;quot;Cambria Math&amp;quot;, Charter, &amp;quot;Times New Roman&amp;quot;, Times, stixgeneral, serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;估算细胞计数和存活率&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="q_-dLFK2vTkKk4gghY7k-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
