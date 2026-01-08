@@ -13,7 +13,7 @@
         <mxCell id="cdRkBJnGzkoVFhO0CqQl-4" value="&lt;span style=&quot;color: rgb(97, 102, 107); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;计算线粒体基因的百分比，&lt;/span&gt;&lt;span style=&quot;color: rgb(97, 102, 107);&quot;&gt;人类&lt;/span&gt;&lt;font color=&quot;#61666b&quot;&gt;&quot;MT-&quot;开头小鼠是mt-&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cdRkBJnGzkoVFhO0CqQl-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cdRkBJnGzkoVFhO0CqQl-5" value="细胞过滤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
