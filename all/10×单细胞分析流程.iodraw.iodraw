@@ -7,7 +7,7 @@
         <mxCell id="cdRkBJnGzkoVFhO0CqQl-1" value="10×单细胞数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cdRkBJnGzkoVFhO0CqQl-2" value="读取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cdRkBJnGzkoVFhO0CqQl-2" value="读取（单样本/多样本）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
