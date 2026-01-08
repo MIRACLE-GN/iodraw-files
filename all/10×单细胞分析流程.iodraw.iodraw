@@ -22,14 +22,26 @@
         <mxCell id="cdRkBJnGzkoVFhO0CqQl-4" value="&lt;span style=&quot;color: rgb(97, 102, 107); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;计算线粒体基因的百分比，&lt;/span&gt;&lt;span style=&quot;color: rgb(97, 102, 107);&quot;&gt;人类&lt;/span&gt;&lt;font color=&quot;#61666b&quot;&gt;&quot;MT-&quot;开头小鼠是mt-&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="30" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cdRkBJnGzkoVFhO0CqQl-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cdRkBJnGzkoVFhO0CqQl-5" target="cdRkBJnGzkoVFhO0CqQl-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cdRkBJnGzkoVFhO0CqQl-5" value="细胞过滤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cdRkBJnGzkoVFhO0CqQl-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cdRkBJnGzkoVFhO0CqQl-6" target="cdRkBJnGzkoVFhO0CqQl-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cdRkBJnGzkoVFhO0CqQl-6" value="数据标准化NormalizeData" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="30" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cdRkBJnGzkoVFhO0CqQl-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cdRkBJnGzkoVFhO0CqQl-7" target="cdRkBJnGzkoVFhO0CqQl-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cdRkBJnGzkoVFhO0CqQl-7" value="识别高变基因&lt;div&gt;FindVariableFeatures&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cdRkBJnGzkoVFhO0CqQl-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cdRkBJnGzkoVFhO0CqQl-8" target="cdRkBJnGzkoVFhO0CqQl-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cdRkBJnGzkoVFhO0CqQl-8" value="数据缩放（归一化）&lt;div&gt;ScaleData&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="130" width="120" height="60" as="geometry" />
