@@ -5,16 +5,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CzFV9he_cxPEwfANbT-R-1" value="GSE141910&lt;div&gt;166DCM、28HCM和166Non-Failing&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CzFV9he_cxPEwfANbT-R-2" value="DCM：扩张型心肌病&lt;div&gt;HCM：肥厚型心肌病&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CzFV9he_cxPEwfANbT-R-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CzFV9he_cxPEwfANbT-R-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CzFV9he_cxPEwfANbT-R-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
