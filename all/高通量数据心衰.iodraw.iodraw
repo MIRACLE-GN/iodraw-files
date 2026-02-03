@@ -70,10 +70,13 @@
         <mxCell id="CzFV9he_cxPEwfANbT-R-26" value="control:disease=166:194" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="50" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="CzFV9he_cxPEwfANbT-R-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CzFV9he_cxPEwfANbT-R-27" target="CzFV9he_cxPEwfANbT-R-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CzFV9he_cxPEwfANbT-R-27" value="相关性最强模块:brown&lt;div&gt;628个gene&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="570" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CzFV9he_cxPEwfANbT-R-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CzFV9he_cxPEwfANbT-R-28" target="CzFV9he_cxPEwfANbT-R-38">
+        <mxCell id="CzFV9he_cxPEwfANbT-R-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CzFV9he_cxPEwfANbT-R-28" target="CzFV9he_cxPEwfANbT-R-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CzFV9he_cxPEwfANbT-R-28" value="105个预测靶点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
