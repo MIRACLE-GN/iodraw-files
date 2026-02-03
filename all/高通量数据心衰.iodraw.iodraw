@@ -53,7 +53,7 @@
           <mxGeometry x="460" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CzFV9he_cxPEwfANbT-R-17" value="982差异表达基因&lt;div&gt;723上调/259下调&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CzFV9he_cxPEwfANbT-R-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CzFV9he_cxPEwfANbT-R-19" target="CzFV9he_cxPEwfANbT-R-20">
           <mxGeometry relative="1" as="geometry" />
@@ -68,13 +68,13 @@
           <mxGeometry x="660" y="50" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CzFV9he_cxPEwfANbT-R-27" value="相关性最强模块:brown&lt;div&gt;628个gene&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="570" width="130" height="60" as="geometry" />
+          <mxGeometry x="265" y="570" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CzFV9he_cxPEwfANbT-R-28" value="105个预测靶点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CzFV9he_cxPEwfANbT-R-29" value="GeneCards&lt;br&gt;9970个心衰相关基因&lt;br&gt;取前25%,2493个基因" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CzFV9he_cxPEwfANbT-R-30" value="高通量测序数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="55" y="7" width="120" height="60" as="geometry" />
