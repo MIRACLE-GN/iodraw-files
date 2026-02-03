@@ -74,7 +74,7 @@
           <mxGeometry x="80" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CzFV9he_cxPEwfANbT-R-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CzFV9he_cxPEwfANbT-R-30" value="高通量测序数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="55" y="7" width="120" height="60" as="geometry" />
