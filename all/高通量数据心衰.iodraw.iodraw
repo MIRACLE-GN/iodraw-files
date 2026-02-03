@@ -73,6 +73,9 @@
         <mxCell id="CzFV9he_cxPEwfANbT-R-27" value="相关性最强模块:brown&lt;div&gt;628个gene&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="570" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="CzFV9he_cxPEwfANbT-R-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CzFV9he_cxPEwfANbT-R-28" target="CzFV9he_cxPEwfANbT-R-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CzFV9he_cxPEwfANbT-R-28" value="105个预测靶点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="570" width="120" height="60" as="geometry" />
         </mxCell>
@@ -95,7 +98,7 @@
           <mxGeometry x="80" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CzFV9he_cxPEwfANbT-R-38" value="上述交集基因共两个：&lt;span style=&quot;background-color: initial;&quot;&gt;KIT与&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;HTR2B&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="351" y="720" width="126" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
