@@ -20,7 +20,7 @@
           <mxGeometry x="470" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XBbEvHHXOijTUVAAHKHK-5" value="白术 24 种药物成分；太子参 145 种药物成分；白花蛇舌草 266 种药物成分；半夏 635 种药物成分；半枝莲 961 种药物成分；陈皮 278 种药物成分；茯苓 1532 种药物成分；甘草 3035 种药物成分；山慈菇 266 种药物成分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="320" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XBbEvHHXOijTUVAAHKHK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XBbEvHHXOijTUVAAHKHK-6" target="XBbEvHHXOijTUVAAHKHK-4">
           <mxGeometry relative="1" as="geometry" />
