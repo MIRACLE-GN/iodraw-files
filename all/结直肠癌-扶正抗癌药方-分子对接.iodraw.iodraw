@@ -7,8 +7,11 @@
         <mxCell id="XBbEvHHXOijTUVAAHKHK-1" value="结直肠癌疾病靶点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="110" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="XBbEvHHXOijTUVAAHKHK-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XBbEvHHXOijTUVAAHKHK-2" target="XBbEvHHXOijTUVAAHKHK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XBbEvHHXOijTUVAAHKHK-2" value="扶正抗癌药方药物靶点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="60" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XBbEvHHXOijTUVAAHKHK-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="210" width="120" height="60" as="geometry" />
@@ -18,6 +21,9 @@
         </mxCell>
         <mxCell id="XBbEvHHXOijTUVAAHKHK-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XBbEvHHXOijTUVAAHKHK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XBbEvHHXOijTUVAAHKHK-6" target="XBbEvHHXOijTUVAAHKHK-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XBbEvHHXOijTUVAAHKHK-6" value="&lt;span style=&quot;color: rgb(31, 31, 31); text-align: start;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;“TCMNP”整合了来自DrugBank、TCMSP、ETCM、DisGeNET和OMIM等知名数据库的数据，建立了连接中医处方、药材、生物活性成分、治疗靶点及相关疾病的综合关系框架。&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="205" width="290" height="70" as="geometry" />
