@@ -16,7 +16,7 @@
         <mxCell id="XBbEvHHXOijTUVAAHKHK-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XBbEvHHXOijTUVAAHKHK-4" value="使用R包TCMNP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XBbEvHHXOijTUVAAHKHK-4" value="使用R包TCMNP寻找上述药物靶点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XBbEvHHXOijTUVAAHKHK-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
