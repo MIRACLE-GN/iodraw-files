@@ -28,8 +28,8 @@
         <mxCell id="XBbEvHHXOijTUVAAHKHK-6" value="&lt;span style=&quot;color: rgb(31, 31, 31); text-align: start;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;“TCMNP”整合了来自DrugBank、TCMSP、ETCM、DisGeNET和OMIM等知名数据库的数据，建立了连接中医处方、药材、生物活性成分、治疗靶点及相关疾病的综合关系框架。&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="205" width="290" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="XBbEvHHXOijTUVAAHKHK-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" width="120" height="60" as="geometry" />
+        <mxCell id="XBbEvHHXOijTUVAAHKHK-9" value="扶正抗癌药方药物靶点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="10" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
