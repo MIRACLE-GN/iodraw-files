@@ -16,11 +16,11 @@
         <mxCell id="XBbEvHHXOijTUVAAHKHK-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XBbEvHHXOijTUVAAHKHK-4" value="TCMNP R包" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XBbEvHHXOijTUVAAHKHK-4" value="R包 TCMNP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="235" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XBbEvHHXOijTUVAAHKHK-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XBbEvHHXOijTUVAAHKHK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XBbEvHHXOijTUVAAHKHK-6" target="XBbEvHHXOijTUVAAHKHK-4">
           <mxGeometry relative="1" as="geometry" />
