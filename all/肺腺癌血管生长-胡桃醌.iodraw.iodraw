@@ -13,6 +13,9 @@
         <mxCell id="WPZ-JhB4inwDMugRCcBX-3" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;GeneCards：6479个&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;CTD：7548个&lt;br&gt;合并去重：10729个&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="180" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="WPZ-JhB4inwDMugRCcBX-4" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;&quot;&gt;Swisstargetprediction&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
