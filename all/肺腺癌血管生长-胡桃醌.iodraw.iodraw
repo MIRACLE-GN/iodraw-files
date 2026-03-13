@@ -7,8 +7,8 @@
         <mxCell id="WPZ-JhB4inwDMugRCcBX-1" value="疾病靶点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WPZ-JhB4inwDMugRCcBX-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="70" width="120" height="60" as="geometry" />
+        <mxCell id="WPZ-JhB4inwDMugRCcBX-2" value="药物靶点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="50" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
