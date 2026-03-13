@@ -48,7 +48,7 @@
         <mxCell id="WPZ-JhB4inwDMugRCcBX-13" value="GO功能富集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WPZ-JhB4inwDMugRCcBX-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WPZ-JhB4inwDMugRCcBX-14" value="KEGG通路富集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
