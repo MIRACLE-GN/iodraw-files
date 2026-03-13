@@ -36,6 +36,9 @@
         <mxCell id="WPZ-JhB4inwDMugRCcBX-7" value="交集基因：175个" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="300" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="WPZ-JhB4inwDMugRCcBX-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
