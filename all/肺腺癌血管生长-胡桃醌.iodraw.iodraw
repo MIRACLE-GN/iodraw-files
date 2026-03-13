@@ -16,8 +16,14 @@
         <mxCell id="WPZ-JhB4inwDMugRCcBX-2" value="药物分子靶点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="60" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="WPZ-JhB4inwDMugRCcBX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WPZ-JhB4inwDMugRCcBX-3" target="WPZ-JhB4inwDMugRCcBX-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WPZ-JhB4inwDMugRCcBX-3" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;GeneCards：6479个&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;CTD：7548个&lt;br&gt;合并去重：10729个&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPZ-JhB4inwDMugRCcBX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WPZ-JhB4inwDMugRCcBX-4" target="WPZ-JhB4inwDMugRCcBX-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WPZ-JhB4inwDMugRCcBX-4" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;Swisstargetprediction：105个&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;GTKaayixmriERFTePqjC&quot;&gt;sea search：20个·&lt;br&gt;CTD：45个&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;HERB 2.0：69个&lt;br&gt;合并去重：199&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: 宋体;&quot;&gt;&lt;font face=&quot;Calibri&quot;&gt;&lt;/font&gt;&lt;/span&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="389" y="165" width="170" height="90" as="geometry" />
