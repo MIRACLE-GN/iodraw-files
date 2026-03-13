@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WPZ-JhB4inwDMugRCcBX-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WPZ-JhB4inwDMugRCcBX-1" value="疾病靶点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WPZ-JhB4inwDMugRCcBX-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
