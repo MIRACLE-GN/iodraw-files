@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="655" y="270" />
-              <mxPoint x="310" y="270" />
+              <mxPoint x="414" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -37,7 +37,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WPZ-JhB4inwDMugRCcBX-7" value="交集基因：175个" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WPZ-JhB4inwDMugRCcBX-10" value="富集分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="400" width="120" height="60" as="geometry" />
