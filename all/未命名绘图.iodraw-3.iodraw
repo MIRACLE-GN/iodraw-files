@@ -36,7 +36,7 @@
         <mxCell id="tF8vPbDL1ceE2U7U5fbO-5" value="交集靶点：175个" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tF8vPbDL1ceE2U7U5fbO-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tF8vPbDL1ceE2U7U5fbO-12" value="富集分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
