@@ -63,11 +63,17 @@
         <mxCell id="tF8vPbDL1ceE2U7U5fbO-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tF8vPbDL1ceE2U7U5fbO-17" target="tF8vPbDL1ceE2U7U5fbO-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="tF8vPbDL1ceE2U7U5fbO-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tF8vPbDL1ceE2U7U5fbO-17" target="tF8vPbDL1ceE2U7U5fbO-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tF8vPbDL1ceE2U7U5fbO-17" value="PPI网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tF8vPbDL1ceE2U7U5fbO-22" value="药物分子-靶点-通路-疾病 全景图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tF8vPbDL1ceE2U7U5fbO-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
