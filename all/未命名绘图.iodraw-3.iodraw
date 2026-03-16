@@ -39,6 +39,12 @@
         <mxCell id="tF8vPbDL1ceE2U7U5fbO-12" value="富集分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="330" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tF8vPbDL1ceE2U7U5fbO-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tF8vPbDL1ceE2U7U5fbO-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
