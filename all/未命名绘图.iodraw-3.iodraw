@@ -10,6 +10,9 @@
         <mxCell id="tF8vPbDL1ceE2U7U5fbO-2" value="胡桃醌靶点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tF8vPbDL1ceE2U7U5fbO-3" value="GeneCards：6479个&lt;div&gt;CTD：7548个&lt;br&gt;合并去重：10729个&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
