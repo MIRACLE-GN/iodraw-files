@@ -7,7 +7,7 @@
         <mxCell id="tF8vPbDL1ceE2U7U5fbO-1" value="疾病靶点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tF8vPbDL1ceE2U7U5fbO-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tF8vPbDL1ceE2U7U5fbO-2" value="胡桃醌靶点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
