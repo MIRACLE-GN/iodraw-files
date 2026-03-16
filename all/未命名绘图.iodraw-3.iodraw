@@ -78,11 +78,17 @@
         <mxCell id="tF8vPbDL1ceE2U7U5fbO-25" value="BC、CC、DC和MCode算法同时筛选关键基因" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="440" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tF8vPbDL1ceE2U7U5fbO-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tF8vPbDL1ceE2U7U5fbO-27" target="tF8vPbDL1ceE2U7U5fbO-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tF8vPbDL1ceE2U7U5fbO-27" value="15个核心基因" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="540" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tF8vPbDL1ceE2U7U5fbO-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tF8vPbDL1ceE2U7U5fbO-29" target="tF8vPbDL1ceE2U7U5fbO-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tF8vPbDL1ceE2U7U5fbO-29" value="15个基因对应蛋白质与胡桃醌进行分子对接" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tF8vPbDL1ceE2U7U5fbO-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="540" width="120" height="60" as="geometry" />
