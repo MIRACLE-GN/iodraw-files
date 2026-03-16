@@ -16,7 +16,7 @@
         <mxCell id="tF8vPbDL1ceE2U7U5fbO-4" value="swisstargetprediction：105个预测靶点&lt;div&gt;sea search：36个预测靶点&lt;/div&gt;&lt;div&gt;CTD：45个&lt;/div&gt;&lt;div&gt;HERB.2.0：47个&lt;/div&gt;&lt;div&gt;合并去重：199个&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="395" y="130" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="tF8vPbDL1ceE2U7U5fbO-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tF8vPbDL1ceE2U7U5fbO-5" value="交集靶点：175个" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
